@@ -1,0 +1,1602 @@
+"ORDER
+NUMBER","QUANTITY
+ORDERED", PRICEEACH , SALES AMOUNT ,STATUS,MONTH_ID,YEAR_ID,PRODUCTLINE,PRODUCTCODE,COMPANY_NAME,CITY,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE
+10107,30,96,"2,871",Shipped,2,2003,Motorcycles,S10_1678,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Small
+10121,34,81,"2,766",Shipped,5,2003,Motorcycles,S10_1678,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Small
+10134,41,95,"3,884",Shipped,7,2003,Motorcycles,S10_1678,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Medium
+10145,45,83,"3,747",Shipped,8,2003,Motorcycles,S10_1678,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Medium
+10159,49,100,"5,205",Shipped,10,2003,Motorcycles,S10_1678,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10168,36,97,"3,480",Shipped,10,2003,Motorcycles,S10_1678,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Medium
+10180,29,86,"2,498",Shipped,11,2003,Motorcycles,S10_1678,Daedalus Designs Imports,Lille,France,EMEA,Rance,Martine,Small
+10188,48,100,"5,512",Shipped,11,2003,Motorcycles,S10_1678,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Medium
+10201,22,99,"2,169",Shipped,12,2003,Motorcycles,S10_1678,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Small
+10211,41,100,"4,708",Shipped,1,2004,Motorcycles,S10_1678,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Medium
+10223,37,100,"3,966",Shipped,2,2004,Motorcycles,S10_1678,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10237,23,100,"2,333",Shipped,4,2004,Motorcycles,S10_1678,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Small
+10251,28,100,"3,189",Shipped,5,2004,Motorcycles,S10_1678,Tekni Collectables Inc.,Newark,USA,NA,Brown,William,Medium
+10263,34,100,"3,677",Shipped,6,2004,Motorcycles,S10_1678,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Medium
+10275,45,93,"4,177",Shipped,7,2004,Motorcycles,S10_1678,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Medium
+10285,36,100,"4,100",Shipped,8,2004,Motorcycles,S10_1678,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Medium
+10299,23,100,"2,597",Shipped,9,2004,Motorcycles,S10_1678,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Small
+10309,41,100,"4,394",Shipped,10,2004,Motorcycles,S10_1678,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Medium
+10318,46,95,"4,358",Shipped,11,2004,Motorcycles,S10_1678,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Medium
+10329,42,100,"4,396",Shipped,11,2004,Motorcycles,S10_1678,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10341,41,100,"7,738",Shipped,11,2004,Motorcycles,S10_1678,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Large
+10361,20,73,"1,451",Shipped,12,2004,Motorcycles,S10_1678,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Small
+10375,21,35,733,Shipped,2,2005,Motorcycles,S10_1678,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Small
+10388,42,76,"3,207",Shipped,3,2005,Motorcycles,S10_1678,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Medium
+10403,24,100,"2,435",Shipped,4,2005,Motorcycles,S10_1678,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Small
+10417,66,100,"7,516",Disputed,5,2005,Motorcycles,S10_1678,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Large
+10103,26,100,"5,405",Shipped,1,2003,Classic Cars,S10_1949,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Medium
+10112,29,100,"7,209",Shipped,3,2003,Classic Cars,S10_1949,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Berglund,Christina,Large
+10126,38,100,"7,329",Shipped,5,2003,Classic Cars,S10_1949,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Large
+10140,37,100,"7,374",Shipped,7,2003,Classic Cars,S10_1949,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Large
+10150,45,100,"10,994",Shipped,9,2003,Classic Cars,S10_1949,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Large
+10163,21,100,"4,860",Shipped,10,2003,Classic Cars,S10_1949,Classic Legends Inc.,NYC,USA,NA,Hernandez,Maria,Medium
+10174,34,100,"8,015",Shipped,11,2003,Classic Cars,S10_1949,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Calaghan,Tony,Large
+10183,23,100,"5,373",Shipped,11,2003,Classic Cars,S10_1949,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Cervantes,Francisca,Medium
+10194,42,100,"7,290",Shipped,11,2003,Classic Cars,S10_1949,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Large
+10206,47,100,"9,065",Shipped,12,2003,Classic Cars,S10_1949,Canadian Gift Exchange Network,Vancouver,Canada,NA,Tannamuri,Yoshi,Large
+10215,35,100,"6,075",Shipped,1,2004,Classic Cars,S10_1949,West Coast Collectables Co.,Burbank,USA,NA,Thompson,Steve,Medium
+10228,29,100,"6,463",Shipped,3,2004,Classic Cars,S10_1949,Cambridge Collectables Co.,Cambridge,USA,NA,Tseng,Kyung,Medium
+10245,34,100,"6,120",Shipped,5,2004,Classic Cars,S10_1949,Super Scale Inc.,New Haven,USA,NA,Murphy,Leslie,Medium
+10258,32,100,"7,681",Shipped,6,2004,Classic Cars,S10_1949,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Large
+10270,21,100,"4,905",Shipped,7,2004,Classic Cars,S10_1949,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Medium
+10280,34,100,"8,015",Shipped,8,2004,Classic Cars,S10_1949,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Large
+10291,37,100,"7,136",Shipped,9,2004,Classic Cars,S10_1949,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Large
+10304,47,100,"10,173",Shipped,10,2004,Classic Cars,S10_1949,Auto Assoc. & Cie.,Versailles,France,EMEA,Tonini,Daniel,Large
+10312,48,100,"11,624",Shipped,10,2004,Classic Cars,S10_1949,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Large
+10322,40,100,"6,000",Shipped,11,2004,Classic Cars,S10_1949,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Medium
+10333,26,100,"3,003",Shipped,11,2004,Classic Cars,S10_1949,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Medium
+10347,30,100,"3,945",Shipped,11,2004,Classic Cars,S10_1949,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10357,32,100,"5,692",Shipped,12,2004,Classic Cars,S10_1949,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10369,41,100,"4,515",Shipped,1,2005,Classic Cars,S10_1949,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Medium
+10381,36,100,"8,255",Shipped,2,2005,Classic Cars,S10_1949,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Large
+10391,24,100,"2,417",Shipped,3,2005,Classic Cars,S10_1949,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10411,23,100,"4,140",Shipped,5,2005,Classic Cars,S10_1949,Quebec Home Shopping Network,Montreal,Canada,NA,Fresnisre,Jean,Medium
+10424,50,100,"12,001",In Process,5,2005,Classic Cars,S10_1949,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Large
+10107,39,100,"3,896",Shipped,2,2003,Motorcycles,S10_2016,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10120,29,96,"2,794",Shipped,4,2003,Motorcycles,S10_2016,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Small
+10134,27,100,"3,308",Shipped,7,2003,Motorcycles,S10_2016,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Medium
+10145,37,100,"5,193",Shipped,8,2003,Motorcycles,S10_2016,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Medium
+10159,37,100,"5,017",Shipped,10,2003,Motorcycles,S10_2016,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10168,27,100,"3,661",Shipped,10,2003,Motorcycles,S10_2016,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Medium
+10180,42,100,"4,696",Shipped,11,2003,Motorcycles,S10_2016,Daedalus Designs Imports,Lille,France,EMEA,Rance,Martine,Medium
+10188,38,96,"3,661",Shipped,11,2003,Motorcycles,S10_2016,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Medium
+10201,24,100,"3,026",Shipped,12,2003,Motorcycles,S10_2016,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Medium
+10210,23,100,"3,009",Shipped,1,2004,Motorcycles,S10_2016,Osaka Souveniers Co.,Osaka,Japan,Japan,Kentary,Mory,Medium
+10223,47,100,"5,422",Shipped,2,2004,Motorcycles,S10_2016,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10236,22,100,"2,852",Shipped,4,2004,Motorcycles,S10_2016,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Small
+10251,44,100,"5,757",Shipped,5,2004,Motorcycles,S10_2016,Tekni Collectables Inc.,Newark,USA,NA,Brown,William,Medium
+10263,40,100,"4,472",Shipped,6,2004,Motorcycles,S10_2016,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Medium
+10275,22,100,"2,904",Shipped,7,2004,Motorcycles,S10_2016,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Small
+10285,47,100,"6,485",Shipped,8,2004,Motorcycles,S10_2016,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Medium
+10298,39,96,"3,757",Shipped,9,2004,Motorcycles,S10_2016,Atelier graphique,Nantes,France,EMEA,Schmitt,Carine,Medium
+10308,34,100,"4,044",Shipped,10,2004,Motorcycles,S10_2016,Mini Classics,White Plains,USA,NA,Frick,Steve,Medium
+10318,45,100,"5,567",Shipped,11,2004,Motorcycles,S10_2016,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Medium
+10329,20,100,"3,176",Shipped,11,2004,Motorcycles,S10_2016,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10339,40,69,"2,757",Shipped,11,2004,Motorcycles,S10_2016,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Small
+10361,26,51,"1,330",Shipped,12,2004,Motorcycles,S10_2016,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Small
+10374,39,100,"5,288",Shipped,2,2005,Motorcycles,S10_2016,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Calaghan,Tony,Medium
+10388,50,45,"2,226",Shipped,3,2005,Motorcycles,S10_2016,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Small
+10402,45,100,"5,834",Shipped,4,2005,Motorcycles,S10_2016,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Medium
+10417,45,100,"5,887",Disputed,5,2005,Motorcycles,S10_2016,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10107,27,100,"6,066",Shipped,2,2003,Motorcycles,S10_4698,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10120,46,100,"9,265",Shipped,4,2003,Motorcycles,S10_4698,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Large
+10134,31,100,"7,024",Shipped,7,2003,Motorcycles,S10_4698,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Large
+10145,33,100,"5,176",Shipped,8,2003,Motorcycles,S10_4698,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Medium
+10159,22,100,"4,133",Shipped,10,2003,Motorcycles,S10_4698,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10168,20,100,"4,183",Shipped,10,2003,Motorcycles,S10_4698,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Medium
+10180,41,100,"8,893",Shipped,11,2003,Motorcycles,S10_4698,Daedalus Designs Imports,Lille,France,EMEA,Rance,Martine,Large
+10188,45,100,"8,715",Shipped,11,2003,Motorcycles,S10_4698,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Large
+10201,49,100,"8,066",Shipped,12,2003,Motorcycles,S10_4698,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Large
+10210,34,100,"6,123",Shipped,1,2004,Motorcycles,S10_4698,Osaka Souveniers Co.,Osaka,Japan,Japan,Kentary,Mory,Medium
+10223,49,100,"9,774",Shipped,2,2004,Motorcycles,S10_4698,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Large
+10237,39,100,"7,024",Shipped,4,2004,Motorcycles,S10_4698,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Large
+10251,43,100,"7,078",Shipped,5,2004,Motorcycles,S10_4698,Tekni Collectables Inc.,Newark,USA,NA,Brown,William,Large
+10263,41,100,"8,337",Shipped,6,2004,Motorcycles,S10_4698,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Large
+10275,36,100,"6,902",Shipped,7,2004,Motorcycles,S10_4698,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Medium
+10285,27,100,"5,438",Shipped,8,2004,Motorcycles,S10_4698,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Medium
+10299,29,100,"6,683",Shipped,9,2004,Motorcycles,S10_4698,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Medium
+10308,20,100,"4,570",Shipped,10,2004,Motorcycles,S10_4698,Mini Classics,White Plains,USA,NA,Frick,Steve,Medium
+10318,37,100,"7,667",Shipped,11,2004,Motorcycles,S10_4698,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Large
+10329,26,100,"5,868",Shipped,11,2004,Motorcycles,S10_4698,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10339,39,77,"2,990",Shipped,11,2004,Motorcycles,S10_4698,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Small
+10362,22,100,"3,664",Shipped,1,2005,Motorcycles,S10_4698,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Medium
+10374,22,100,"3,834",Shipped,2,2005,Motorcycles,S10_4698,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Calaghan,Tony,Medium
+10388,21,87,"1,822",Shipped,3,2005,Motorcycles,S10_4698,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Small
+10403,66,100,"11,887",Shipped,4,2005,Motorcycles,S10_4698,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Large
+10417,56,100,"9,218",Disputed,5,2005,Motorcycles,S10_4698,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Large
+10105,50,100,"7,208",Shipped,2,2003,Classic Cars,S10_4757,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Large
+10119,46,100,"5,005",Shipped,4,2003,Classic Cars,S10_4757,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Medium
+10129,33,100,"4,398",Shipped,6,2003,Classic Cars,S10_4757,"Stylish Desk Decors, Co.",London,UK,EMEA,Brown,Ann,Medium
+10143,49,100,"5,598",Shipped,8,2003,Classic Cars,S10_4757,Mini Creations Ltd.,New Bedford,USA,NA,Tam,Wing C,Medium
+10155,32,100,"4,526",Shipped,10,2003,Classic Cars,S10_4757,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Medium
+10167,44,100,"5,924",Cancelled,10,2003,Classic Cars,S10_4757,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10178,24,100,"3,492",Shipped,11,2003,Classic Cars,S10_4757,Alpha Cognac,Toulouse,France,EMEA,Roulet,Annette,Medium
+10186,26,100,"3,854",Shipped,11,2003,Classic Cars,S10_4757,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Hardy,Thomas,Medium
+10197,45,100,"5,324",Shipped,11,2003,Classic Cars,S10_4757,Enaco Distributors,Barcelona,Spain,EMEA,Saavedra,Eduardo,Medium
+10209,39,100,"5,198",Shipped,1,2004,Classic Cars,S10_4757,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Chandler,Michael,Medium
+10222,49,100,"5,998",Shipped,2,2004,Classic Cars,S10_4757,Collectable Mini Designs Co.,San Diego,USA,NA,Thompson,Valarie,Medium
+10248,20,100,"2,910",Cancelled,5,2004,Classic Cars,S10_4757,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Small
+10261,27,100,"3,378",Shipped,6,2004,Classic Cars,S10_4757,Quebec Home Shopping Network,Montreal,Canada,NA,Fresnisre,Jean,Medium
+10273,30,100,"3,509",Shipped,7,2004,Classic Cars,S10_4757,Petit Auto,Bruxelles,Belgium,EMEA,Dewey,Catherine,Medium
+10283,25,100,"2,992",Shipped,8,2004,Classic Cars,S10_4757,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Lincoln,Elizabeth,Small
+10295,24,100,"3,427",Shipped,9,2004,Classic Cars,S10_4757,Gifts4AllAges.com,Boston,USA,NA,Yoshido,Juri,Medium
+10307,22,100,"2,693",Shipped,10,2004,Classic Cars,S10_4757,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Cervantes,Francisca,Small
+10316,33,100,"4,129",Shipped,11,2004,Classic Cars,S10_4757,giftsbymail.co.uk,Cowes,UK,EMEA,Bennett,Helen,Medium
+10325,47,65,"3,052",Shipped,11,2004,Classic Cars,S10_4757,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Medium
+10337,25,48,"1,201",Shipped,11,2004,Classic Cars,S10_4757,Classic Legends Inc.,NYC,USA,NA,Hernandez,Maria,Small
+10350,26,75,"1,962",Shipped,12,2004,Classic Cars,S10_4757,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10359,48,55,"2,625",Shipped,12,2004,Classic Cars,S10_4757,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Small
+10373,39,100,"4,046",Shipped,1,2005,Classic Cars,S10_4757,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Koskitalo,Pirkko,Medium
+10384,34,100,"4,847",Shipped,2,2005,Classic Cars,S10_4757,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10395,32,100,"3,371",Shipped,3,2005,Classic Cars,S10_4757,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Medium
+10400,64,100,"9,661",Shipped,4,2005,Classic Cars,S10_4757,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Large
+10414,19,100,"2,765",On Hold,5,2005,Classic Cars,S10_4757,Gifts4AllAges.com,Boston,USA,NA,Yoshido,Juri,Small
+10103,42,100,"5,398",Shipped,1,2003,Classic Cars,S10_4962,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Medium
+10114,31,100,"4,305",Shipped,4,2003,Classic Cars,S10_4962,"La Corne D'abondance, Co.",Paris,France,EMEA,Bertrand,Marie,Medium
+10126,22,100,"3,348",Shipped,5,2003,Classic Cars,S10_4962,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Medium
+10140,26,100,"3,188",Shipped,7,2003,Classic Cars,S10_4962,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Medium
+10150,20,100,"3,191",Shipped,9,2003,Classic Cars,S10_4962,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10164,21,100,"3,537",Resolved,10,2003,Classic Cars,S10_4962,Mini Auto Werke,Graz,Austria,EMEA,Mendel,Roland,Medium
+10175,33,100,"5,363",Shipped,11,2003,Classic Cars,S10_4962,"Stylish Desk Decors, Co.",London,UK,EMEA,Brown,Ann,Medium
+10183,28,100,"3,433",Shipped,11,2003,Classic Cars,S10_4962,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Cervantes,Francisca,Medium
+10194,26,100,"4,264",Shipped,11,2003,Classic Cars,S10_4962,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Medium
+10207,31,100,"4,076",Shipped,12,2003,Classic Cars,S10_4962,Diecast Collectables,Boston,USA,NA,Franco,Valarie,Medium
+10217,48,100,"7,020",Shipped,2,2004,Classic Cars,S10_4962,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Large
+10229,50,100,"6,427",Shipped,3,2004,Classic Cars,S10_4962,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10245,28,100,"4,592",Shipped,5,2004,Classic Cars,S10_4962,Super Scale Inc.,New Haven,USA,NA,Murphy,Leslie,Medium
+10259,26,100,"4,033",Shipped,6,2004,Classic Cars,S10_4962,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Medium
+10270,32,100,"4,302",Shipped,7,2004,Classic Cars,S10_4962,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Medium
+10281,44,100,"7,021",Shipped,8,2004,Classic Cars,S10_4962,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Large
+10291,30,100,"3,856",Shipped,9,2004,Classic Cars,S10_4962,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10305,38,100,"6,681",Shipped,10,2004,Classic Cars,S10_4962,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Medium
+10313,40,100,"6,678",Shipped,10,2004,Classic Cars,S10_4962,Canadian Gift Exchange Network,Vancouver,Canada,NA,Tannamuri,Yoshi,Medium
+10322,46,62,"2,852",Shipped,11,2004,Classic Cars,S10_4962,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Small
+10334,26,100,"3,188",On Hold,11,2004,Classic Cars,S10_4962,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Berglund,Christina,Medium
+10347,27,100,"4,428",Shipped,11,2004,Classic Cars,S10_4962,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10357,43,100,"5,781",Shipped,12,2004,Classic Cars,S10_4962,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10370,35,66,"2,297",Shipped,1,2005,Classic Cars,S10_4962,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10381,37,100,"6,232",Shipped,2,2005,Classic Cars,S10_4962,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10391,37,47,"1,735",Shipped,3,2005,Classic Cars,S10_4962,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10411,27,100,"4,428",Shipped,5,2005,Classic Cars,S10_4962,Quebec Home Shopping Network,Montreal,Canada,NA,Fresnisre,Jean,Medium
+10425,38,100,"5,895",In Process,5,2005,Classic Cars,S10_4962,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Medium
+10108,33,100,"5,265",Shipped,3,2003,Classic Cars,S12_1099,Cruz & Sons Co.,Makati City,Philippines,Japan,Cruz,Arnold,Medium
+10122,42,100,"7,600",Shipped,5,2003,Classic Cars,S12_1099,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Large
+10135,42,100,"8,009",Shipped,7,2003,Classic Cars,S12_1099,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Large
+10147,48,100,"9,246",Shipped,9,2003,Classic Cars,S12_1099,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Large
+10159,41,100,"8,296",Shipped,10,2003,Classic Cars,S12_1099,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Large
+10169,30,100,"5,020",Shipped,11,2003,Classic Cars,S12_1099,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Medium
+10181,27,100,"5,411",Shipped,11,2003,Classic Cars,S12_1099,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Medium
+10191,21,100,"3,841",Shipped,11,2003,Classic Cars,S12_1099,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Medium
+10203,20,100,"3,930",Shipped,12,2003,Classic Cars,S12_1099,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10211,41,100,"7,499",Shipped,1,2004,Classic Cars,S12_1099,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Large
+10225,27,100,"4,518",Shipped,2,2004,Classic Cars,S12_1099,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10238,28,100,"5,775",Shipped,4,2004,Classic Cars,S12_1099,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Medium
+10253,24,100,"3,923",Cancelled,6,2004,Classic Cars,S12_1099,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Medium
+10266,44,100,"9,160",Shipped,7,2004,Classic Cars,S12_1099,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Large
+10276,50,100,"9,631",Shipped,8,2004,Classic Cars,S12_1099,Online Mini Collectables,Brickhaven,USA,NA,Barajas,Miguel,Large
+10287,21,100,"3,432",Shipped,8,2004,Classic Cars,S12_1099,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10300,33,100,"5,522",Shipped,10,2003,Classic Cars,S12_1099,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Medium
+10310,33,100,"6,935",Shipped,10,2004,Classic Cars,S12_1099,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Medium
+10320,31,100,"6,876",Shipped,11,2004,Classic Cars,S12_1099,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Berglund,Christina,Medium
+10329,41,71,"2,930",Shipped,11,2004,Classic Cars,S12_1099,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Small
+10341,45,80,"3,584",Shipped,11,2004,Classic Cars,S12_1099,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Medium
+10363,33,85,"2,818",Shipped,1,2005,Classic Cars,S12_1099,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Small
+10375,45,76,"3,420",Shipped,2,2005,Classic Cars,S12_1099,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Medium
+10389,26,99,"2,575",Shipped,3,2005,Classic Cars,S12_1099,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Small
+10419,12,100,"1,961",Shipped,5,2005,Classic Cars,S12_1099,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Small
+10105,41,100,"8,690",Shipped,2,2003,Classic Cars,S12_1108,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Large
+10117,33,100,"6,034",Shipped,4,2003,Classic Cars,S12_1108,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10127,46,100,"11,279",Shipped,6,2003,Classic Cars,S12_1108,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Large
+10142,33,100,"8,023",Shipped,8,2003,Classic Cars,S12_1108,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Large
+10153,20,100,"4,904",Shipped,9,2003,Classic Cars,S12_1108,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10165,44,100,"8,595",Shipped,10,2003,Classic Cars,S12_1108,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Large
+10176,33,100,"7,475",Shipped,11,2003,Classic Cars,S12_1108,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Large
+10185,21,100,"3,884",Shipped,11,2003,Classic Cars,S12_1108,Mini Creations Ltd.,New Bedford,USA,NA,Tam,Wing C,Medium
+10196,47,100,"8,888",Shipped,11,2003,Classic Cars,S12_1108,Super Scale Inc.,New Haven,USA,NA,Murphy,Leslie,Large
+10208,46,100,"8,603",Shipped,1,2004,Classic Cars,S12_1108,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Large
+10220,32,100,"7,181",Shipped,2,2004,Classic Cars,S12_1108,"Clover Collections, Co.",Dublin,Ireland,EMEA,Cassidy,Dean,Large
+10231,42,100,"8,379",Shipped,3,2004,Classic Cars,S12_1108,CAF Imports,Madrid,Spain,EMEA,Fernandez,Jesus,Large
+10247,44,100,"10,606",Shipped,5,2004,Classic Cars,S12_1108,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Large
+10272,35,100,"5,818",Shipped,7,2004,Classic Cars,S12_1108,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Medium
+10282,41,100,"7,071",Shipped,8,2004,Classic Cars,S12_1108,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Large
+10293,46,100,"8,412",Shipped,9,2004,Classic Cars,S12_1108,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Large
+10306,31,100,"6,571",Shipped,10,2004,Classic Cars,S12_1108,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10314,38,100,"7,975",Shipped,10,2004,Classic Cars,S12_1108,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Large
+10325,42,64,"2,688",Shipped,11,2004,Classic Cars,S12_1108,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Small
+10336,33,57,"1,888",Shipped,11,2004,Classic Cars,S12_1108,"La Corne D'abondance, Co.",Paris,France,EMEA,Bertrand,Marie,Small
+10348,48,52,"2,513",Shipped,11,2004,Classic Cars,S12_1108,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Small
+10359,42,100,"4,764",Shipped,12,2004,Classic Cars,S12_1108,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Medium
+10371,32,100,"3,561",Shipped,1,2005,Classic Cars,S12_1108,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10382,34,100,"3,824",Shipped,2,2005,Classic Cars,S12_1108,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10395,33,69,"2,281",Shipped,3,2005,Classic Cars,S12_1108,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Small
+10413,36,100,"8,678",Shipped,5,2005,Classic Cars,S12_1108,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Large
+10103,27,100,"3,395",Shipped,1,2003,Trucks and Buses,S12_1666,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Medium
+10113,21,100,"3,415",Shipped,3,2003,Trucks and Buses,S12_1666,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10126,21,100,"2,440",Shipped,5,2003,Trucks and Buses,S12_1666,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Small
+10140,38,100,"4,830",Shipped,7,2003,Trucks and Buses,S12_1666,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Medium
+10150,30,100,"4,100",Shipped,9,2003,Trucks and Buses,S12_1666,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10164,49,100,"6,563",Resolved,10,2003,Trucks and Buses,S12_1666,Mini Auto Werke,Graz,Austria,EMEA,Mendel,Roland,Medium
+10174,43,100,"6,817",Shipped,11,2003,Trucks and Buses,S12_1666,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Calaghan,Tony,Medium
+10183,41,100,"6,164",Shipped,11,2003,Trucks and Buses,S12_1666,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Cervantes,Francisca,Medium
+10194,38,100,"4,934",Shipped,11,2003,Trucks and Buses,S12_1666,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Medium
+10206,28,100,"4,056",Shipped,12,2003,Trucks and Buses,S12_1666,Canadian Gift Exchange Network,Vancouver,Canada,NA,Tannamuri,Yoshi,Medium
+10216,43,100,"5,759",Shipped,2,2004,Trucks and Buses,S12_1666,Auto Assoc. & Cie.,Versailles,France,EMEA,Tonini,Daniel,Medium
+10229,25,100,"3,451",Shipped,3,2004,Trucks and Buses,S12_1666,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10245,38,100,"5,920",Shipped,5,2004,Trucks and Buses,S12_1666,Super Scale Inc.,New Haven,USA,NA,Murphy,Leslie,Medium
+10258,41,100,"6,668",Shipped,6,2004,Trucks and Buses,S12_1666,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Medium
+10270,28,100,"4,095",Shipped,7,2004,Trucks and Buses,S12_1666,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Medium
+10281,25,100,"2,939",Shipped,8,2004,Trucks and Buses,S12_1666,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Small
+10291,41,100,"6,388",Shipped,9,2004,Trucks and Buses,S12_1666,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10304,39,100,"6,396",Shipped,10,2004,Trucks and Buses,S12_1666,Auto Assoc. & Cie.,Versailles,France,EMEA,Tonini,Daniel,Medium
+10313,21,100,"2,669",Shipped,10,2004,Trucks and Buses,S12_1666,Canadian Gift Exchange Network,Vancouver,Canada,NA,Tannamuri,Yoshi,Small
+10322,27,100,"4,784",Shipped,11,2004,Trucks and Buses,S12_1666,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Medium
+10333,33,99,"3,274",Shipped,11,2004,Trucks and Buses,S12_1666,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Medium
+10347,29,100,"3,586",Shipped,11,2004,Trucks and Buses,S12_1666,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10357,49,100,"5,960",Shipped,12,2004,Trucks and Buses,S12_1666,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10370,49,100,"8,470",Shipped,1,2005,Trucks and Buses,S12_1666,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Large
+10381,20,100,"2,952",Shipped,2,2005,Trucks and Buses,S12_1666,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Small
+10391,39,63,"2,465",Shipped,3,2005,Trucks and Buses,S12_1666,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10411,40,100,"6,232",Shipped,5,2005,Trucks and Buses,S12_1666,Quebec Home Shopping Network,Montreal,Canada,NA,Fresnisre,Jean,Medium
+10424,49,100,"7,969",In Process,5,2005,Trucks and Buses,S12_1666,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Large
+10107,21,100,"3,037",Shipped,2,2003,Motorcycles,S12_2823,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10121,50,100,"8,284",Shipped,5,2003,Motorcycles,S12_2823,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Large
+10134,20,100,"2,711",Shipped,7,2003,Motorcycles,S12_2823,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Small
+10145,49,100,"8,340",Shipped,8,2003,Motorcycles,S12_2823,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Large
+10159,38,100,"6,239",Shipped,10,2003,Motorcycles,S12_2823,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10169,35,100,"4,639",Shipped,11,2003,Motorcycles,S12_2823,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Medium
+10180,40,100,"6,748",Shipped,11,2003,Motorcycles,S12_2823,Daedalus Designs Imports,Lille,France,EMEA,Rance,Martine,Medium
+10189,28,100,"4,512",Shipped,11,2003,Motorcycles,S12_2823,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Medium
+10201,25,100,"4,029",Shipped,12,2003,Motorcycles,S12_2823,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Medium
+10211,36,100,"4,772",Shipped,1,2004,Motorcycles,S12_2823,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Medium
+10224,43,100,"6,088",Shipped,2,2004,Motorcycles,S12_2823,Daedalus Designs Imports,Lille,France,EMEA,Rance,Martine,Medium
+10237,32,100,"4,193",Shipped,4,2004,Motorcycles,S12_2823,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Medium
+10251,46,100,"7,552",Shipped,5,2004,Motorcycles,S12_2823,Tekni Collectables Inc.,Newark,USA,NA,Brown,William,Large
+10263,48,100,"6,434",Shipped,6,2004,Motorcycles,S12_2823,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Medium
+10276,43,100,"5,182",Shipped,8,2004,Motorcycles,S12_2823,Online Mini Collectables,Brickhaven,USA,NA,Barajas,Miguel,Medium
+10285,49,100,"6,864",Shipped,8,2004,Motorcycles,S12_2823,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Medium
+10299,24,100,"4,157",Shipped,9,2004,Motorcycles,S12_2823,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Medium
+10309,26,100,"4,660",Shipped,10,2004,Motorcycles,S12_2823,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Medium
+10319,30,100,"4,112",Shipped,11,2004,Motorcycles,S12_2823,Microscale Inc.,NYC,USA,NA,Kuo,Kee,Medium
+10329,24,100,"3,543",Shipped,11,2004,Motorcycles,S12_2823,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10341,55,100,"8,119",Shipped,11,2004,Motorcycles,S12_2823,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Large
+10362,22,100,"3,877",Shipped,1,2005,Motorcycles,S12_2823,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Medium
+10375,49,79,"3,867",Shipped,2,2005,Motorcycles,S12_2823,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Medium
+10388,44,100,"5,951",Shipped,3,2005,Motorcycles,S12_2823,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Medium
+10403,66,100,"8,649",Shipped,4,2005,Motorcycles,S12_2823,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Large
+10417,21,100,"3,448",Disputed,5,2005,Motorcycles,S12_2823,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10104,34,100,"5,959",Shipped,1,2003,Classic Cars,S12_3148,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10117,43,100,"5,912",Shipped,4,2003,Classic Cars,S12_3148,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10127,46,100,"7,366",Shipped,6,2003,Classic Cars,S12_3148,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Large
+10142,33,100,"4,986",Shipped,8,2003,Classic Cars,S12_3148,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10153,42,100,"5,394",Shipped,9,2003,Classic Cars,S12_3148,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10165,34,100,"4,880",Shipped,10,2003,Classic Cars,S12_3148,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10176,47,100,"8,379",Shipped,11,2003,Classic Cars,S12_3148,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Large
+10185,33,100,"4,038",Shipped,11,2003,Classic Cars,S12_3148,Mini Creations Ltd.,New Bedford,USA,NA,Tam,Wing C,Medium
+10196,24,100,"3,807",Shipped,11,2003,Classic Cars,S12_3148,Super Scale Inc.,New Haven,USA,NA,Murphy,Leslie,Medium
+10208,26,100,"3,142",Shipped,1,2004,Classic Cars,S12_3148,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Medium
+10220,30,100,"4,714",Shipped,2,2004,Classic Cars,S12_3148,"Clover Collections, Co.",Dublin,Ireland,EMEA,Cassidy,Dean,Medium
+10230,43,100,"7,016",Shipped,3,2004,Classic Cars,S12_3148,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Large
+10247,25,100,"4,381",Shipped,5,2004,Classic Cars,S12_3148,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Medium
+10272,27,100,"4,283",Shipped,7,2004,Classic Cars,S12_3148,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Medium
+10282,27,100,"4,365",Shipped,8,2004,Classic Cars,S12_3148,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10293,24,100,"4,242",Shipped,9,2004,Classic Cars,S12_3148,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Medium
+10306,34,100,"4,983",Shipped,10,2004,Classic Cars,S12_3148,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10314,46,100,"6,394",Shipped,10,2004,Classic Cars,S12_3148,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Medium
+10324,27,54,"1,467",Shipped,11,2004,Classic Cars,S12_3148,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Small
+10336,33,100,"4,059",Shipped,11,2004,Classic Cars,S12_3148,"La Corne D'abondance, Co.",Paris,France,EMEA,Bertrand,Marie,Medium
+10348,47,100,"4,802",Shipped,11,2004,Classic Cars,S12_3148,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Medium
+10358,49,55,"2,712",Shipped,12,2004,Classic Cars,S12_3148,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10372,40,100,"5,862",Shipped,1,2005,Classic Cars,S12_3148,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Medium
+10382,37,100,"4,072",Shipped,2,2005,Classic Cars,S12_3148,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10413,47,100,"8,237",Shipped,5,2005,Classic Cars,S12_3148,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Large
+10108,45,100,"6,130",Shipped,3,2003,Classic Cars,S12_3380,Cruz & Sons Co.,Makati City,Philippines,Japan,Cruz,Arnold,Medium
+10122,37,100,"3,693",Shipped,5,2003,Classic Cars,S12_3380,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Medium
+10135,48,100,"6,032",Shipped,7,2003,Classic Cars,S12_3380,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10147,31,100,"3,495",Shipped,9,2003,Classic Cars,S12_3380,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Medium
+10160,46,100,"5,294",Shipped,10,2003,Classic Cars,S12_3380,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Chandler,Michael,Medium
+10170,47,100,"5,465",Shipped,11,2003,Classic Cars,S12_3380,Mini Auto Werke,Graz,Austria,EMEA,Mendel,Roland,Medium
+10181,28,100,"2,861",Shipped,11,2003,Classic Cars,S12_3380,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Small
+10191,40,100,"5,590",Shipped,11,2003,Classic Cars,S12_3380,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Medium
+10203,20,100,"2,255",Shipped,12,2003,Classic Cars,S12_3380,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10212,39,100,"4,947",Shipped,1,2004,Classic Cars,S12_3380,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10225,25,100,"2,496",Shipped,2,2004,Classic Cars,S12_3380,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Small
+10238,29,100,"3,167",Shipped,4,2004,Classic Cars,S12_3380,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Medium
+10253,22,100,"2,403",Cancelled,6,2004,Classic Cars,S12_3380,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Small
+10266,22,100,"2,455",Shipped,7,2004,Classic Cars,S12_3380,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Small
+10276,47,100,"5,465",Shipped,8,2004,Classic Cars,S12_3380,Online Mini Collectables,Brickhaven,USA,NA,Barajas,Miguel,Medium
+10287,45,100,"4,757",Shipped,8,2004,Classic Cars,S12_3380,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10300,29,100,"3,985",Shipped,10,2003,Classic Cars,S12_3380,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Medium
+10310,24,100,"3,100",Shipped,10,2004,Classic Cars,S12_3380,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Medium
+10320,35,100,"4,850",Shipped,11,2004,Classic Cars,S12_3380,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Berglund,Christina,Medium
+10329,46,84,"3,847",Shipped,11,2004,Classic Cars,S12_3380,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10341,44,96,"4,221",Shipped,11,2004,Classic Cars,S12_3380,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Medium
+10363,34,97,"3,289",Shipped,1,2005,Classic Cars,S12_3380,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Medium
+10376,35,100,"3,987",Shipped,2,2005,Classic Cars,S12_3380,Boards & Toys Co.,Glendale,USA,NA,Young,Leslie,Medium
+10389,25,72,"1,810",Shipped,3,2005,Classic Cars,S12_3380,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Small
+10419,10,100,"1,092",Shipped,5,2005,Classic Cars,S12_3380,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Small
+10105,29,100,"4,566",Shipped,2,2003,Classic Cars,S12_3891,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Medium
+10117,39,100,"5,938",Shipped,4,2003,Classic Cars,S12_3891,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10127,42,100,"8,139",Shipped,6,2003,Classic Cars,S12_3891,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Large
+10142,46,100,"9,471",Shipped,8,2003,Classic Cars,S12_3891,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Large
+10153,49,100,"7,037",Shipped,9,2003,Classic Cars,S12_3891,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Large
+10165,27,100,"5,559",Shipped,10,2003,Classic Cars,S12_3891,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10176,50,100,"7,873",Shipped,11,2003,Classic Cars,S12_3891,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Large
+10185,43,100,"7,886",Shipped,11,2003,Classic Cars,S12_3891,Mini Creations Ltd.,New Bedford,USA,NA,Tam,Wing C,Large
+10196,38,100,"7,232",Shipped,11,2003,Classic Cars,S12_3891,Super Scale Inc.,New Haven,USA,NA,Murphy,Leslie,Large
+10208,20,100,"3,114",Shipped,1,2004,Classic Cars,S12_3891,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Medium
+10220,27,100,"5,045",Shipped,2,2004,Classic Cars,S12_3891,"Clover Collections, Co.",Dublin,Ireland,EMEA,Cassidy,Dean,Medium
+10231,49,100,"6,952",Shipped,3,2004,Classic Cars,S12_3891,CAF Imports,Madrid,Spain,EMEA,Fernandez,Jesus,Medium
+10247,27,100,"4,158",Shipped,5,2004,Classic Cars,S12_3891,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Medium
+10272,39,100,"7,962",Shipped,7,2004,Classic Cars,S12_3891,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Large
+10282,24,100,"3,779",Shipped,8,2004,Classic Cars,S12_3891,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10293,45,100,"8,253",Shipped,9,2004,Classic Cars,S12_3891,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Large
+10306,20,100,"3,633",Shipped,10,2004,Classic Cars,S12_3891,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10314,36,100,"6,914",Shipped,10,2004,Classic Cars,S12_3891,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Medium
+10325,24,100,"2,584",Shipped,11,2004,Classic Cars,S12_3891,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Small
+10336,49,63,"3,106",Shipped,11,2004,Classic Cars,S12_3891,"La Corne D'abondance, Co.",Paris,France,EMEA,Bertrand,Marie,Medium
+10349,26,100,"4,409",Shipped,12,2004,Classic Cars,S12_3891,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10359,49,62,"3,042",Shipped,12,2004,Classic Cars,S12_3891,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Medium
+10372,34,100,"5,942",Shipped,1,2005,Classic Cars,S12_3891,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Medium
+10382,34,95,"3,242",Shipped,2,2005,Classic Cars,S12_3891,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10396,33,100,"6,109",Shipped,3,2005,Classic Cars,S12_3891,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10413,22,100,"3,388",Shipped,5,2005,Classic Cars,S12_3891,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Medium
+10108,39,89,"3,486",Shipped,3,2003,Classic Cars,S12_3990,Cruz & Sons Co.,Makati City,Philippines,Japan,Cruz,Arnold,Medium
+10122,32,64,"2,043",Shipped,5,2003,Classic Cars,S12_3990,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Small
+10135,24,75,"1,800",Shipped,7,2003,Classic Cars,S12_3990,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10147,21,64,"1,341",Shipped,9,2003,Classic Cars,S12_3990,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Small
+10159,24,73,"1,762",Shipped,10,2003,Classic Cars,S12_3990,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Small
+10169,36,64,"2,298",Shipped,11,2003,Classic Cars,S12_3990,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10181,20,81,"1,628",Shipped,11,2003,Classic Cars,S12_3990,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Small
+10191,30,65,"1,939",Shipped,11,2003,Classic Cars,S12_3990,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Small
+10203,44,83,"3,652",Shipped,12,2003,Classic Cars,S12_3990,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10211,28,93,"2,592",Shipped,1,2004,Classic Cars,S12_3990,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Small
+10225,37,77,"2,864",Shipped,2,2004,Classic Cars,S12_3990,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Small
+10238,20,74,"1,484",Shipped,4,2004,Classic Cars,S12_3990,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Small
+10253,25,90,"2,254",Cancelled,6,2004,Classic Cars,S12_3990,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Small
+10266,35,77,"2,681",Shipped,7,2004,Classic Cars,S12_3990,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Small
+10276,38,84,"3,184",Shipped,8,2004,Classic Cars,S12_3990,Online Mini Collectables,Brickhaven,USA,NA,Barajas,Miguel,Medium
+10287,41,69,"2,847",Shipped,8,2004,Classic Cars,S12_3990,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Small
+10300,22,77,"1,685",Shipped,10,2003,Classic Cars,S12_3990,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Small
+10310,49,81,"3,989",Shipped,10,2004,Classic Cars,S12_3990,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Medium
+10320,38,73,"2,790",Shipped,11,2004,Classic Cars,S12_3990,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Berglund,Christina,Small
+10329,33,100,"3,608",Shipped,11,2004,Classic Cars,S12_3990,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10341,36,94,"3,368",Shipped,11,2004,Classic Cars,S12_3990,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Medium
+10363,34,82,"2,775",Shipped,1,2005,Classic Cars,S12_3990,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Small
+10377,24,68,"1,628",Shipped,2,2005,Classic Cars,S12_3990,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Small
+10389,36,70,"2,529",Shipped,3,2005,Classic Cars,S12_3990,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Small
+10419,34,90,"3,066",Shipped,5,2005,Classic Cars,S12_3990,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Medium
+10104,41,100,"4,616",Shipped,1,2003,Trucks and Buses,S12_4473,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10115,46,100,"5,724",Shipped,4,2003,Trucks and Buses,S12_4473,Classic Legends Inc.,NYC,USA,NA,Hernandez,Maria,Medium
+10127,24,100,"2,560",Shipped,6,2003,Trucks and Buses,S12_4473,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Small
+10141,21,100,"2,140",Shipped,8,2003,Trucks and Buses,S12_4473,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Small
+10151,24,100,"3,328",Shipped,9,2003,Trucks and Buses,S12_4473,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Koskitalo,Pirkko,Medium
+10165,48,100,"6,826",Shipped,10,2003,Trucks and Buses,S12_4473,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10175,26,100,"3,543",Shipped,11,2003,Trucks and Buses,S12_4473,"Stylish Desk Decors, Co.",London,UK,EMEA,Brown,Ann,Medium
+10184,37,100,"4,516",Shipped,11,2003,Trucks and Buses,S12_4473,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Roel,Jose Pedro,Medium
+10195,49,100,"6,445",Shipped,11,2003,Trucks and Buses,S12_4473,Mini Classics,White Plains,USA,NA,Frick,Steve,Medium
+10207,34,100,"3,384",Shipped,12,2003,Trucks and Buses,S12_4473,Diecast Collectables,Boston,USA,NA,Franco,Valarie,Medium
+10219,48,100,"4,892",Shipped,2,2004,Trucks and Buses,S12_4473,Signal Collectibles Ltd.,Brisbane,USA,NA,Taylor,Sue,Medium
+10229,36,100,"4,522",Shipped,3,2004,Trucks and Buses,S12_4473,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10246,46,100,"5,070",Shipped,5,2004,Trucks and Buses,S12_4473,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10259,46,100,"6,541",Shipped,6,2004,Trucks and Buses,S12_4473,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Medium
+10271,31,97,"3,012",Shipped,7,2004,Trucks and Buses,S12_4473,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10281,41,100,"5,247",Shipped,8,2004,Trucks and Buses,S12_4473,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Medium
+10292,21,100,"2,215",Shipped,9,2004,Trucks and Buses,S12_4473,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Small
+10305,38,100,"4,773",Shipped,10,2004,Trucks and Buses,S12_4473,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Medium
+10314,45,100,"6,186",Shipped,10,2004,Trucks and Buses,S12_4473,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Medium
+10324,26,58,"1,518",Shipped,11,2004,Trucks and Buses,S12_4473,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Small
+10336,38,100,"6,373",Shipped,11,2004,Trucks and Buses,S12_4473,"La Corne D'abondance, Co.",Paris,France,EMEA,Bertrand,Marie,Medium
+10349,48,100,"5,233",Shipped,12,2004,Trucks and Buses,S12_4473,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10358,42,64,"2,695",Shipped,12,2004,Trucks and Buses,S12_4473,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10371,49,36,"1,750",Shipped,1,2005,Trucks and Buses,S12_4473,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10382,32,67,"2,131",Shipped,2,2005,Trucks and Buses,S12_4473,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10412,54,100,"5,951",Shipped,5,2005,Trucks and Buses,S12_4473,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10425,33,100,"4,693",In Process,5,2005,Trucks and Buses,S12_4473,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Medium
+10108,36,100,"3,731",Shipped,3,2003,Classic Cars,S12_4675,Cruz & Sons Co.,Makati City,Philippines,Japan,Cruz,Arnold,Medium
+10122,20,100,"2,142",Shipped,5,2003,Classic Cars,S12_4675,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Small
+10135,29,98,"2,839",Shipped,7,2003,Classic Cars,S12_4675,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10147,33,98,"3,230",Shipped,9,2003,Classic Cars,S12_4675,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Medium
+10160,50,100,"5,182",Shipped,10,2003,Classic Cars,S12_4675,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Chandler,Michael,Medium
+10170,41,100,"4,391",Shipped,11,2003,Classic Cars,S12_4675,Mini Auto Werke,Graz,Austria,EMEA,Mendel,Roland,Medium
+10181,36,100,"4,477",Shipped,11,2003,Classic Cars,S12_4675,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Medium
+10192,27,100,"3,545",Shipped,11,2003,Classic Cars,S12_4675,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Medium
+10203,47,100,"5,196",Shipped,12,2003,Classic Cars,S12_4675,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10212,33,100,"4,180",Shipped,1,2004,Classic Cars,S12_4675,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10225,21,100,"2,684",Shipped,2,2004,Classic Cars,S12_4675,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Small
+10239,21,93,"1,959",Shipped,4,2004,Classic Cars,S12_4675,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Koskitalo,Pirkko,Small
+10253,41,100,"4,911",Cancelled,6,2004,Classic Cars,S12_4675,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Medium
+10266,40,100,"4,468",Shipped,7,2004,Classic Cars,S12_4675,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Medium
+10277,28,100,"3,128",Shipped,8,2004,Classic Cars,S12_4675,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10287,23,100,"2,675",Shipped,8,2004,Classic Cars,S12_4675,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Small
+10300,23,100,"2,808",Shipped,10,2003,Classic Cars,S12_4675,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Small
+10310,25,100,"2,505",Shipped,10,2004,Classic Cars,S12_4675,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Small
+10321,24,100,"2,985",Shipped,11,2004,Classic Cars,S12_4675,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Small
+10329,39,65,"2,525",Shipped,11,2004,Classic Cars,S12_4675,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Small
+10341,55,75,"4,136",Shipped,11,2004,Classic Cars,S12_4675,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Medium
+10363,46,88,"4,069",Shipped,1,2005,Classic Cars,S12_4675,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Medium
+10377,50,100,"5,182",Shipped,2,2005,Classic Cars,S12_4675,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Medium
+10389,47,100,"5,244",Shipped,3,2005,Classic Cars,S12_4675,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10405,97,93,"9,048",Shipped,4,2005,Classic Cars,S12_4675,Mini Caravy,Strasbourg,France,EMEA,Citeaux,Frederique,Large
+10419,32,100,"3,833",Shipped,5,2005,Classic Cars,S12_4675,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Medium
+10103,35,100,"3,920",Shipped,1,2003,Trucks and Buses,S18_1097,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Medium
+10113,49,100,"4,917",Shipped,3,2003,Trucks and Buses,S18_1097,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10126,38,100,"3,857",Shipped,5,2003,Trucks and Buses,S18_1097,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Medium
+10140,32,100,"4,181",Shipped,7,2003,Trucks and Buses,S18_1097,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Medium
+10150,34,100,"4,641",Shipped,9,2003,Trucks and Buses,S18_1097,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10164,36,99,"3,570",Resolved,10,2003,Trucks and Buses,S18_1097,Mini Auto Werke,Graz,Austria,EMEA,Mendel,Roland,Medium
+10174,48,93,"4,480",Shipped,11,2003,Trucks and Buses,S18_1097,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Calaghan,Tony,Medium
+10183,21,97,"2,034",Shipped,11,2003,Trucks and Buses,S18_1097,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Cervantes,Francisca,Small
+10194,21,93,"1,960",Shipped,11,2003,Trucks and Buses,S18_1097,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Small
+10206,34,100,"3,967",Shipped,12,2003,Trucks and Buses,S18_1097,Canadian Gift Exchange Network,Vancouver,Canada,NA,Tannamuri,Yoshi,Medium
+10215,46,100,"5,152",Shipped,1,2004,Trucks and Buses,S18_1097,West Coast Collectables Co.,Burbank,USA,NA,Thompson,Steve,Medium
+10228,32,100,"3,360",Shipped,3,2004,Trucks and Buses,S18_1097,Cambridge Collectables Co.,Cambridge,USA,NA,Tseng,Kyung,Medium
+10245,29,100,"3,451",Shipped,5,2004,Trucks and Buses,S18_1097,Super Scale Inc.,New Haven,USA,NA,Murphy,Leslie,Medium
+10258,41,100,"5,453",Shipped,6,2004,Trucks and Buses,S18_1097,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Medium
+10270,43,97,"4,164",Shipped,7,2004,Trucks and Buses,S18_1097,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Medium
+10280,24,100,"2,800",Shipped,8,2004,Trucks and Buses,S18_1097,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Small
+10291,41,100,"4,688",Shipped,9,2004,Trucks and Buses,S18_1097,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10304,46,98,"4,508",Shipped,10,2004,Trucks and Buses,S18_1097,Auto Assoc. & Cie.,Versailles,France,EMEA,Tonini,Daniel,Medium
+10312,32,100,"4,181",Shipped,10,2004,Trucks and Buses,S18_1097,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10322,22,100,"2,251",Shipped,11,2004,Trucks and Buses,S18_1097,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Small
+10333,29,40,"1,167",Shipped,11,2004,Trucks and Buses,S18_1097,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Small
+10347,42,50,"2,083",Shipped,11,2004,Trucks and Buses,S18_1097,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Small
+10357,39,98,"3,822",Shipped,12,2004,Trucks and Buses,S18_1097,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10370,27,100,"3,911",Shipped,1,2005,Trucks and Buses,S18_1097,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Medium
+10381,48,98,"4,704",Shipped,2,2005,Trucks and Buses,S18_1097,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10391,29,85,"2,468",Shipped,3,2005,Trucks and Buses,S18_1097,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10411,27,100,"3,213",Shipped,5,2005,Trucks and Buses,S18_1097,Quebec Home Shopping Network,Montreal,Canada,NA,Fresnisre,Jean,Medium
+10424,54,100,"7,182",In Process,5,2005,Trucks and Buses,S18_1097,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Large
+10109,26,100,"4,379",Shipped,3,2003,Classic Cars,S18_1129,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Medium
+10122,34,100,"5,005",Shipped,5,2003,Classic Cars,S18_1129,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Medium
+10136,25,100,"3,645",Shipped,7,2003,Classic Cars,S18_1129,Alpha Cognac,Toulouse,France,EMEA,Roulet,Annette,Medium
+10148,23,100,"2,702",Shipped,9,2003,Classic Cars,S18_1129,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10161,28,100,"3,765",Shipped,10,2003,Classic Cars,S18_1129,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Medium
+10171,35,100,"4,508",Shipped,11,2003,Classic Cars,S18_1129,Quebec Home Shopping Network,Montreal,Canada,NA,Fresnisre,Jean,Medium
+10181,44,100,"5,418",Shipped,11,2003,Classic Cars,S18_1129,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Medium
+10192,22,100,"3,301",Shipped,11,2003,Classic Cars,S18_1129,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Medium
+10204,42,100,"6,182",Shipped,12,2003,Classic Cars,S18_1129,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10212,29,100,"4,187",Shipped,1,2004,Classic Cars,S18_1129,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10225,32,100,"4,529",Shipped,2,2004,Classic Cars,S18_1129,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10240,41,100,"5,629",Shipped,4,2004,Classic Cars,S18_1129,Osaka Souveniers Co.,Osaka,Japan,Japan,Kentary,Mory,Medium
+10253,26,100,"3,054",Cancelled,6,2004,Classic Cars,S18_1129,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Medium
+10266,21,100,"2,527",Shipped,7,2004,Classic Cars,S18_1129,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Small
+10278,34,100,"4,668",Shipped,8,2004,Classic Cars,S18_1129,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Medium
+10287,41,100,"6,499",Shipped,8,2004,Classic Cars,S18_1129,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10301,37,100,"5,918",Shipped,10,2003,Classic Cars,S18_1129,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Klaeboe,Jan,Medium
+10310,37,100,"6,232",Shipped,10,2004,Classic Cars,S18_1129,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Medium
+10321,41,100,"5,803",Shipped,11,2004,Classic Cars,S18_1129,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Medium
+10331,46,100,"6,434",Shipped,11,2004,Classic Cars,S18_1129,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Medium
+10342,40,100,"6,454",Shipped,11,2004,Classic Cars,S18_1129,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10356,43,98,"4,197",Shipped,12,2004,Classic Cars,S18_1129,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Medium
+10365,30,87,"2,612",Shipped,1,2005,Classic Cars,S18_1129,Mini Creations Ltd.,New Bedford,USA,NA,Tam,Wing C,Small
+10377,35,100,"5,895",Shipped,2,2005,Classic Cars,S18_1129,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Medium
+10390,36,94,"3,376",Shipped,3,2005,Classic Cars,S18_1129,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10406,61,100,"8,375",Disputed,4,2005,Classic Cars,S18_1129,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Large
+10419,38,100,"4,464",Shipped,5,2005,Classic Cars,S18_1129,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Medium
+10102,39,100,"4,808",Shipped,1,2003,Vintage Cars,S18_1342,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Medium
+10111,33,100,"3,289",Shipped,3,2003,Vintage Cars,S18_1342,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Medium
+10125,32,100,"3,255",Shipped,5,2003,Vintage Cars,S18_1342,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10139,31,100,"3,185",Shipped,7,2003,Vintage Cars,S18_1342,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Medium
+10149,50,100,"5,908",Shipped,9,2003,Vintage Cars,S18_1342,Signal Collectibles Ltd.,Brisbane,USA,NA,Taylor,Sue,Medium
+10162,48,91,"4,389",Shipped,10,2003,Vintage Cars,S18_1342,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10173,43,100,"5,036",Shipped,11,2003,Vintage Cars,S18_1342,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Medium
+10182,25,87,"2,183",Shipped,11,2003,Vintage Cars,S18_1342,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10193,28,100,"3,107",Shipped,11,2003,Vintage Cars,S18_1342,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Medium
+10205,36,100,"3,736",Shipped,12,2003,Vintage Cars,S18_1342,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10215,27,89,"2,413",Shipped,1,2004,Vintage Cars,S18_1342,West Coast Collectables Co.,Burbank,USA,NA,Thompson,Steve,Small
+10227,25,100,"2,954",Shipped,3,2004,Vintage Cars,S18_1342,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Small
+10244,40,100,"4,685",Shipped,4,2004,Vintage Cars,S18_1342,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10256,34,96,"3,249",Shipped,6,2004,Vintage Cars,S18_1342,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Medium
+10280,50,100,"5,240",Shipped,8,2004,Vintage Cars,S18_1342,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Medium
+10289,38,100,"4,568",Shipped,9,2004,Vintage Cars,S18_1342,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Medium
+10304,37,96,"3,535",Shipped,10,2004,Vintage Cars,S18_1342,Auto Assoc. & Cie.,Versailles,France,EMEA,Tonini,Daniel,Medium
+10312,43,89,"3,843",Shipped,10,2004,Vintage Cars,S18_1342,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10322,43,86,"3,711",Shipped,11,2004,Vintage Cars,S18_1342,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Medium
+10332,46,95,"4,376",Shipped,11,2004,Vintage Cars,S18_1342,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10346,42,36,"1,517",Shipped,11,2004,Vintage Cars,S18_1342,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Small
+10356,50,50,"2,509",Shipped,12,2004,Vintage Cars,S18_1342,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Small
+10369,44,100,"9,240",Shipped,1,2005,Vintage Cars,S18_1342,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Large
+10380,27,93,"2,515",Shipped,2,2005,Vintage Cars,S18_1342,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10391,35,100,"5,549",Shipped,3,2005,Vintage Cars,S18_1342,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Medium
+10422,51,96,"4,873",In Process,5,2005,Vintage Cars,S18_1342,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Medium
+10102,41,50,"2,056",Shipped,1,2003,Vintage Cars,S18_1367,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Small
+10111,48,49,"2,355",Shipped,3,2003,Vintage Cars,S18_1367,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Small
+10126,42,55,"2,310",Shipped,5,2003,Vintage Cars,S18_1367,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Small
+10139,49,43,"2,113",Shipped,7,2003,Vintage Cars,S18_1367,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Small
+10149,30,58,"1,747",Shipped,9,2003,Vintage Cars,S18_1367,Signal Collectibles Ltd.,Brisbane,USA,NA,Taylor,Sue,Small
+10162,45,51,"2,304",Shipped,10,2003,Vintage Cars,S18_1367,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Small
+10173,48,44,"2,122",Shipped,11,2003,Vintage Cars,S18_1367,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Small
+10182,32,54,"1,742",Shipped,11,2003,Vintage Cars,S18_1367,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10193,46,53,"2,455",Shipped,11,2003,Vintage Cars,S18_1367,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Small
+10205,48,64,"3,053",Shipped,12,2003,Vintage Cars,S18_1367,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10215,33,43,"1,423",Shipped,1,2004,Vintage Cars,S18_1367,West Coast Collectables Co.,Burbank,USA,NA,Thompson,Steve,Small
+10227,31,49,"1,504",Shipped,3,2004,Vintage Cars,S18_1367,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Small
+10244,20,58,"1,164",Shipped,4,2004,Vintage Cars,S18_1367,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10256,29,52,"1,501",Shipped,6,2004,Vintage Cars,S18_1367,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Small
+10280,27,58,"1,557",Shipped,8,2004,Vintage Cars,S18_1367,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Small
+10289,24,56,"1,346",Shipped,9,2004,Vintage Cars,S18_1367,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Small
+10304,37,49,"1,795",Shipped,10,2004,Vintage Cars,S18_1367,Auto Assoc. & Cie.,Versailles,France,EMEA,Tonini,Daniel,Small
+10312,25,44,"1,105",Shipped,10,2004,Vintage Cars,S18_1367,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10322,41,58,"2,365",Shipped,11,2004,Vintage Cars,S18_1367,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Small
+10332,27,90,"2,427",Shipped,11,2004,Vintage Cars,S18_1367,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Small
+10347,21,59,"1,238",Shipped,11,2004,Vintage Cars,S18_1367,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Small
+10356,22,72,"1,593",Shipped,12,2004,Vintage Cars,S18_1367,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Small
+10369,32,99,"3,156",Shipped,1,2005,Vintage Cars,S18_1367,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Medium
+10381,25,53,"1,321",Shipped,2,2005,Vintage Cars,S18_1367,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Small
+10391,42,100,"4,998",Shipped,3,2005,Vintage Cars,S18_1367,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Medium
+10422,25,52,"1,294",In Process,5,2005,Vintage Cars,S18_1367,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Small
+10110,37,100,"5,433",Shipped,3,2003,Classic Cars,S18_1589,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10123,26,100,"3,074",Shipped,5,2003,Classic Cars,S18_1589,Atelier graphique,Nantes,France,EMEA,Schmitt,Carine,Medium
+10137,44,100,"4,380",Shipped,7,2003,Classic Cars,S18_1589,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Medium
+10148,47,100,"5,849",Shipped,9,2003,Classic Cars,S18_1589,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Medium
+10161,43,100,"6,154",Shipped,10,2003,Classic Cars,S18_1589,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Medium
+10172,42,100,"4,965",Shipped,11,2003,Classic Cars,S18_1589,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Medium
+10181,42,100,"5,436",Shipped,11,2003,Classic Cars,S18_1589,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Medium
+10192,29,100,"4,258",Shipped,11,2003,Classic Cars,S18_1589,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Medium
+10204,40,100,"4,032",Shipped,12,2003,Classic Cars,S18_1589,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10212,38,100,"4,492",Shipped,1,2004,Classic Cars,S18_1589,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10226,38,100,"4,161",Shipped,2,2004,Classic Cars,S18_1589,Collectable Mini Designs Co.,San Diego,USA,NA,Thompson,Valarie,Medium
+10241,21,100,"2,509",Shipped,4,2004,Classic Cars,S18_1589,Mini Caravy,Strasbourg,France,EMEA,Citeaux,Frederique,Small
+10253,24,100,"3,375",Cancelled,6,2004,Classic Cars,S18_1589,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Medium
+10266,36,100,"5,197",Shipped,7,2004,Classic Cars,S18_1589,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Medium
+10278,23,100,"2,605",Shipped,8,2004,Classic Cars,S18_1589,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Small
+10288,20,100,"2,937",Shipped,9,2004,Classic Cars,S18_1589,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Small
+10301,32,100,"3,425",Shipped,10,2003,Classic Cars,S18_1589,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Klaeboe,Jan,Medium
+10311,29,100,"2,923",Shipped,10,2004,Classic Cars,S18_1589,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10321,44,100,"4,490",Shipped,11,2004,Classic Cars,S18_1589,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Medium
+10331,44,100,"4,849",Shipped,11,2004,Classic Cars,S18_1589,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Medium
+10343,36,100,"5,849",Shipped,11,2004,Classic Cars,S18_1589,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Medium
+10367,49,56,"2,759",Resolved,1,2005,Classic Cars,S18_1589,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Small
+10378,34,43,"1,450",Shipped,2,2005,Classic Cars,S18_1589,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10407,59,100,"7,048",On Hold,4,2005,Classic Cars,S18_1589,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Large
+10419,37,100,"5,203",Shipped,5,2005,Classic Cars,S18_1589,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Medium
+10106,36,100,"5,279",Shipped,2,2003,Planes,S18_1662,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Medium
+10119,43,100,"6,916",Shipped,4,2003,Planes,S18_1662,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Medium
+10131,21,100,"2,782",Shipped,6,2003,Planes,S18_1662,Gift Ideas Corp.,Glendale,USA,NA,Lewis,Dan,Small
+10143,32,100,"5,248",Shipped,8,2003,Planes,S18_1662,Mini Creations Ltd.,New Bedford,USA,NA,Tam,Wing C,Medium
+10155,38,100,"6,531",Shipped,10,2003,Planes,S18_1662,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Medium
+10167,43,100,"5,764",Cancelled,10,2003,Planes,S18_1662,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10178,42,100,"6,491",Shipped,11,2003,Planes,S18_1662,Alpha Cognac,Toulouse,France,EMEA,Roulet,Annette,Medium
+10186,32,100,"6,005",Shipped,11,2003,Planes,S18_1662,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Hardy,Thomas,Medium
+10198,42,100,"7,484",Shipped,11,2003,Planes,S18_1662,Cruz & Sons Co.,Makati City,Philippines,Japan,Cruz,Arnold,Large
+10210,31,100,"5,720",Shipped,1,2004,Planes,S18_1662,Osaka Souveniers Co.,Osaka,Japan,Japan,Kentary,Mory,Medium
+10222,49,100,"6,954",Shipped,2,2004,Planes,S18_1662,Collectable Mini Designs Co.,San Diego,USA,NA,Thompson,Valarie,Medium
+10250,45,100,"8,160",Shipped,5,2004,Planes,S18_1662,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Large
+10262,49,100,"6,568",Cancelled,6,2004,Planes,S18_1662,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10274,41,100,"6,724",Shipped,7,2004,Planes,S18_1662,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Medium
+10284,45,100,"5,748",Shipped,8,2004,Planes,S18_1662,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Klaeboe,Jan,Medium
+10296,36,100,"5,677",Shipped,9,2004,Planes,S18_1662,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Donnermeyer,Michael,Medium
+10307,39,100,"7,380",Shipped,10,2004,Planes,S18_1662,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Cervantes,Francisca,Large
+10316,27,100,"3,704",Shipped,11,2004,Planes,S18_1662,giftsbymail.co.uk,Cowes,UK,EMEA,Bennett,Helen,Medium
+10327,25,100,"2,805",Resolved,11,2004,Planes,S18_1662,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Small
+10338,41,100,"5,625",Shipped,11,2004,Planes,S18_1662,Royale Belge,Charleroi,Belgium,EMEA,Cartrain,Pascale,Medium
+10351,39,100,"3,881",Shipped,12,2004,Planes,S18_1662,"Stylish Desk Decors, Co.",London,UK,EMEA,Brown,Ann,Medium
+10373,28,58,"1,611",Shipped,1,2005,Planes,S18_1662,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Koskitalo,Pirkko,Small
+10386,25,55,"1,364",Resolved,3,2005,Planes,S18_1662,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10398,33,100,"4,215",Shipped,3,2005,Planes,S18_1662,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Medium
+10400,34,100,"6,434",Shipped,4,2005,Planes,S18_1662,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Medium
+10416,24,100,"4,352",Shipped,5,2005,Planes,S18_1662,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Medium
+10100,30,100,"5,151",Shipped,1,2003,Vintage Cars,S18_1749,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Medium
+10110,42,100,"6,069",Shipped,3,2003,Vintage Cars,S18_1749,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10124,21,100,"2,856",Shipped,5,2003,Vintage Cars,S18_1749,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Small
+10149,34,100,"5,375",Shipped,9,2003,Vintage Cars,S18_1749,Signal Collectibles Ltd.,Brisbane,USA,NA,Taylor,Sue,Medium
+10162,29,100,"5,177",Shipped,10,2003,Vintage Cars,S18_1749,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10173,24,100,"3,509",Shipped,11,2003,Vintage Cars,S18_1749,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Medium
+10182,44,100,"7,555",Shipped,11,2003,Vintage Cars,S18_1749,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Large
+10193,21,100,"3,142",Shipped,11,2003,Vintage Cars,S18_1749,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Medium
+10204,33,100,"5,891",Shipped,12,2003,Vintage Cars,S18_1749,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10214,30,100,"5,967",Shipped,1,2004,Vintage Cars,S18_1749,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Medium
+10227,26,100,"3,713",Shipped,3,2004,Vintage Cars,S18_1749,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Medium
+10241,41,100,"7,597",Shipped,4,2004,Vintage Cars,S18_1749,Mini Caravy,Strasbourg,France,EMEA,Citeaux,Frederique,Large
+10280,26,100,"3,669",Shipped,8,2004,Vintage Cars,S18_1749,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Medium
+10288,32,100,"5,875",Shipped,9,2004,Vintage Cars,S18_1749,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Medium
+10302,43,100,"7,310",Shipped,10,2003,Vintage Cars,S18_1749,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Large
+10312,48,100,"8,078",Shipped,10,2004,Vintage Cars,S18_1749,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Large
+10331,44,74,"3,258",Shipped,11,2004,Vintage Cars,S18_1749,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Medium
+10344,45,100,"7,650",Shipped,11,2004,Vintage Cars,S18_1749,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Large
+10367,37,100,"4,704",Resolved,1,2005,Vintage Cars,S18_1749,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Medium
+10379,39,100,"5,400",Shipped,2,2005,Vintage Cars,S18_1749,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10407,76,100,"14,083",On Hold,4,2005,Vintage Cars,S18_1749,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Large
+10420,37,100,"5,284",In Process,5,2005,Vintage Cars,S18_1749,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Medium
+10108,38,82,"3,131",Shipped,3,2003,Classic Cars,S18_1889,Cruz & Sons Co.,Makati City,Philippines,Japan,Cruz,Arnold,Medium
+10122,43,72,"3,112",Shipped,5,2003,Classic Cars,S18_1889,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Medium
+10135,48,79,"3,807",Shipped,7,2003,Classic Cars,S18_1889,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10147,26,82,"2,142",Shipped,9,2003,Classic Cars,S18_1889,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Small
+10160,38,89,"3,365",Shipped,10,2003,Classic Cars,S18_1889,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Chandler,Michael,Medium
+10170,20,63,"1,263",Shipped,11,2003,Classic Cars,S18_1889,Mini Auto Werke,Graz,Austria,EMEA,Mendel,Roland,Small
+10181,22,74,"1,626",Shipped,11,2003,Classic Cars,S18_1889,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Small
+10192,45,91,"4,089",Shipped,11,2003,Classic Cars,S18_1889,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Medium
+10203,45,85,"3,846",Shipped,12,2003,Classic Cars,S18_1889,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10212,20,67,"1,340",Shipped,1,2004,Classic Cars,S18_1889,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10225,47,65,"3,040",Shipped,2,2004,Classic Cars,S18_1889,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10239,46,74,"3,400",Shipped,4,2004,Classic Cars,S18_1889,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Koskitalo,Pirkko,Medium
+10253,23,84,"1,930",Cancelled,6,2004,Classic Cars,S18_1889,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Small
+10266,33,75,"2,465",Shipped,7,2004,Classic Cars,S18_1889,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Small
+10278,29,91,"2,635",Shipped,8,2004,Classic Cars,S18_1889,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Small
+10287,44,82,"3,625",Shipped,8,2004,Classic Cars,S18_1889,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10300,41,92,"3,788",Shipped,10,2003,Classic Cars,S18_1889,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Medium
+10310,20,92,"1,833",Shipped,10,2004,Classic Cars,S18_1889,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Small
+10321,37,79,"2,906",Shipped,11,2004,Classic Cars,S18_1889,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Small
+10329,29,100,"2,955",Shipped,11,2004,Classic Cars,S18_1889,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Small
+10342,55,65,"3,600",Shipped,11,2004,Classic Cars,S18_1889,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10363,22,100,"3,687",Shipped,1,2005,Classic Cars,S18_1889,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Medium
+10377,31,68,"2,101",Shipped,2,2005,Classic Cars,S18_1889,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Small
+10389,49,79,"3,882",Shipped,3,2005,Classic Cars,S18_1889,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10405,61,74,"4,509",Shipped,4,2005,Classic Cars,S18_1889,Mini Caravy,Strasbourg,France,EMEA,Citeaux,Frederique,Medium
+10419,39,84,"3,273",Shipped,5,2005,Classic Cars,S18_1889,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Medium
+10109,38,100,"4,433",Shipped,3,2003,Classic Cars,S18_1984,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Medium
+10122,31,100,"4,101",Shipped,5,2003,Classic Cars,S18_1984,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Medium
+10136,36,100,"5,275",Shipped,7,2003,Classic Cars,S18_1984,Alpha Cognac,Toulouse,France,EMEA,Roulet,Annette,Medium
+10148,25,100,"4,232",Shipped,9,2003,Classic Cars,S18_1984,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Medium
+10161,48,100,"6,145",Shipped,10,2003,Classic Cars,S18_1984,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Medium
+10171,35,100,"4,680",Shipped,11,2003,Classic Cars,S18_1984,Quebec Home Shopping Network,Montreal,Canada,NA,Fresnisre,Jean,Medium
+10181,21,100,"3,286",Shipped,11,2003,Classic Cars,S18_1984,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Medium
+10192,47,100,"7,421",Shipped,11,2003,Classic Cars,S18_1984,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Large
+10204,38,100,"6,433",Shipped,12,2003,Classic Cars,S18_1984,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10212,41,100,"4,841",Shipped,1,2004,Classic Cars,S18_1984,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10226,24,100,"3,892",Shipped,2,2004,Classic Cars,S18_1984,Collectable Mini Designs Co.,San Diego,USA,NA,Thompson,Valarie,Medium
+10240,37,100,"5,526",Shipped,4,2004,Classic Cars,S18_1984,Osaka Souveniers Co.,Osaka,Japan,Japan,Kentary,Mory,Medium
+10253,33,100,"4,460",Cancelled,6,2004,Classic Cars,S18_1984,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Medium
+10266,49,100,"6,203",Shipped,7,2004,Classic Cars,S18_1984,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Medium
+10278,29,100,"3,754",Shipped,8,2004,Classic Cars,S18_1984,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Medium
+10287,24,100,"3,516",Shipped,8,2004,Classic Cars,S18_1984,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10301,47,100,"7,488",Shipped,10,2003,Classic Cars,S18_1984,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Klaeboe,Jan,Large
+10310,24,100,"3,448",Shipped,10,2004,Classic Cars,S18_1984,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Medium
+10321,25,100,"3,734",Shipped,11,2004,Classic Cars,S18_1984,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Medium
+10331,30,32,974,Shipped,11,2004,Classic Cars,S18_1984,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Small
+10342,22,100,"3,161",Shipped,11,2004,Classic Cars,S18_1984,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10356,27,65,"1,747",Shipped,12,2004,Classic Cars,S18_1984,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Small
+10366,34,100,"4,208",Shipped,1,2005,Classic Cars,S18_1984,Royale Belge,Charleroi,Belgium,EMEA,Cartrain,Pascale,Medium
+10377,36,100,"4,353",Shipped,2,2005,Classic Cars,S18_1984,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Medium
+10390,34,43,"1,464",Shipped,3,2005,Classic Cars,S18_1984,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10406,48,100,"7,169",Disputed,4,2005,Classic Cars,S18_1984,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Large
+10419,34,100,"4,595",Shipped,5,2005,Classic Cars,S18_1984,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Medium
+10104,24,100,"3,458",Shipped,1,2003,Classic Cars,S18_2238,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10115,46,100,"7,381",Shipped,4,2003,Classic Cars,S18_2238,Classic Legends Inc.,NYC,USA,NA,Hernandez,Maria,Large
+10127,45,100,"7,147",Shipped,6,2003,Classic Cars,S18_2238,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Large
+10141,39,100,"5,939",Shipped,8,2003,Classic Cars,S18_2238,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Medium
+10151,43,100,"7,111",Shipped,9,2003,Classic Cars,S18_2238,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Koskitalo,Pirkko,Large
+10165,29,100,"5,033",Shipped,10,2003,Classic Cars,S18_2238,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10176,20,100,"3,668",Shipped,11,2003,Classic Cars,S18_2238,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Medium
+10184,46,100,"7,381",Shipped,11,2003,Classic Cars,S18_2238,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Roel,Jose Pedro,Large
+10195,27,100,"5,128",Shipped,11,2003,Classic Cars,S18_2238,Mini Classics,White Plains,USA,NA,Frick,Steve,Medium
+10207,44,100,"7,060",Shipped,12,2003,Classic Cars,S18_2238,Diecast Collectables,Boston,USA,NA,Franco,Valarie,Large
+10219,43,100,"8,449",Shipped,2,2004,Classic Cars,S18_2238,Signal Collectibles Ltd.,Brisbane,USA,NA,Taylor,Sue,Large
+10230,49,100,"7,301",Shipped,3,2004,Classic Cars,S18_2238,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Large
+10246,40,100,"6,549",Shipped,5,2004,Classic Cars,S18_2238,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10259,30,100,"5,698",Shipped,6,2004,Classic Cars,S18_2238,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Medium
+10271,50,100,"9,169",Shipped,7,2004,Classic Cars,S18_2238,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Large
+10282,23,100,"3,239",Shipped,8,2004,Classic Cars,S18_2238,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10292,26,100,"4,555",Shipped,9,2004,Classic Cars,S18_2238,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10305,27,100,"3,934",Shipped,10,2004,Classic Cars,S18_2238,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Medium
+10314,42,100,"5,776",Shipped,10,2004,Classic Cars,S18_2238,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Medium
+10324,47,100,"7,207",Shipped,11,2004,Classic Cars,S18_2238,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Large
+10336,49,100,"7,461",Shipped,11,2004,Classic Cars,S18_2238,"La Corne D'abondance, Co.",Paris,France,EMEA,Bertrand,Marie,Large
+10349,38,100,"6,720",Shipped,12,2004,Classic Cars,S18_2238,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10358,20,100,"2,428",Shipped,12,2004,Classic Cars,S18_2238,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10371,25,100,"2,602",Shipped,1,2005,Classic Cars,S18_2238,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10382,25,88,"2,200",Shipped,2,2005,Classic Cars,S18_2238,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10412,41,100,"6,713",Shipped,5,2005,Classic Cars,S18_2238,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10425,28,100,"5,318",In Process,5,2005,Classic Cars,S18_2238,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Medium
+10100,50,68,"3,390",Shipped,1,2003,Vintage Cars,S18_2248,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Medium
+10110,32,50,"1,608",Shipped,3,2003,Vintage Cars,S18_2248,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Small
+10124,42,54,"2,263",Shipped,5,2003,Vintage Cars,S18_2248,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Small
+10149,24,62,"1,497",Shipped,9,2003,Vintage Cars,S18_2248,Signal Collectibles Ltd.,Brisbane,USA,NA,Taylor,Sue,Small
+10162,27,70,"1,880",Shipped,10,2003,Vintage Cars,S18_2248,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Small
+10173,26,58,"1,495",Shipped,11,2003,Vintage Cars,S18_2248,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Small
+10182,38,61,"2,324",Shipped,11,2003,Vintage Cars,S18_2248,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10193,42,59,"2,492",Shipped,11,2003,Vintage Cars,S18_2248,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Small
+10204,23,71,"1,643",Shipped,12,2003,Vintage Cars,S18_2248,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Small
+10214,21,63,"1,322",Shipped,1,2004,Vintage Cars,S18_2248,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Small
+10227,28,51,"1,424",Shipped,3,2004,Vintage Cars,S18_2248,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Small
+10241,33,73,"2,397",Shipped,4,2004,Vintage Cars,S18_2248,Mini Caravy,Strasbourg,France,EMEA,Citeaux,Frederique,Small
+10280,25,63,"1,574",Shipped,8,2004,Vintage Cars,S18_2248,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Small
+10288,28,62,"1,729",Shipped,9,2004,Vintage Cars,S18_2248,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Small
+10303,46,49,"2,256",Shipped,10,2004,Vintage Cars,S18_2248,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Roel,Jose Pedro,Small
+10312,30,61,"1,835",Shipped,10,2004,Vintage Cars,S18_2248,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10332,38,84,"3,202",Shipped,11,2004,Vintage Cars,S18_2248,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10344,40,57,"2,276",Shipped,11,2004,Vintage Cars,S18_2248,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Small
+10367,45,100,"8,885",Resolved,1,2005,Vintage Cars,S18_2248,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Large
+10379,27,49,"1,331",Shipped,2,2005,Vintage Cars,S18_2248,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10407,42,73,"3,051",On Hold,4,2005,Vintage Cars,S18_2248,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Medium
+10420,36,64,"2,289",In Process,5,2005,Vintage Cars,S18_2248,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Small
+10104,29,100,"3,773",Shipped,1,2003,Trucks and Buses,S18_2319,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10114,39,100,"4,164",Shipped,4,2003,Trucks and Buses,S18_2319,"La Corne D'abondance, Co.",Paris,France,EMEA,Bertrand,Marie,Medium
+10127,45,100,"6,296",Shipped,6,2003,Trucks and Buses,S18_2319,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10141,47,100,"6,288",Shipped,8,2003,Trucks and Buses,S18_2319,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Medium
+10151,49,100,"5,413",Shipped,9,2003,Trucks and Buses,S18_2319,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Koskitalo,Pirkko,Medium
+10165,46,100,"5,984",Shipped,10,2003,Trucks and Buses,S18_2319,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10175,48,100,"5,891",Shipped,11,2003,Trucks and Buses,S18_2319,"Stylish Desk Decors, Co.",London,UK,EMEA,Brown,Ann,Medium
+10184,46,100,"5,984",Shipped,11,2003,Trucks and Buses,S18_2319,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Roel,Jose Pedro,Medium
+10195,35,100,"3,608",Shipped,11,2003,Trucks and Buses,S18_2319,Mini Classics,White Plains,USA,NA,Frick,Steve,Medium
+10207,43,100,"5,753",Shipped,12,2003,Trucks and Buses,S18_2319,Diecast Collectables,Boston,USA,NA,Franco,Valarie,Medium
+10229,26,100,"3,765",Shipped,3,2004,Trucks and Buses,S18_2319,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10246,22,98,"2,160",Shipped,5,2004,Trucks and Buses,S18_2319,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10259,34,99,"3,380",Shipped,6,2004,Trucks and Buses,S18_2319,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Medium
+10271,50,100,"5,094",Shipped,7,2004,Trucks and Buses,S18_2319,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10281,48,100,"5,773",Shipped,8,2004,Trucks and Buses,S18_2319,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Medium
+10292,41,100,"4,529",Shipped,9,2004,Trucks and Buses,S18_2319,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10305,36,100,"4,816",Shipped,10,2004,Trucks and Buses,S18_2319,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Medium
+10313,29,100,"3,417",Shipped,10,2004,Trucks and Buses,S18_2319,Canadian Gift Exchange Network,Vancouver,Canada,NA,Tannamuri,Yoshi,Medium
+10324,33,37,"1,237",Shipped,11,2004,Trucks and Buses,S18_2319,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Small
+10334,46,100,"5,815",On Hold,11,2004,Trucks and Buses,S18_2319,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Berglund,Christina,Medium
+10349,38,100,"5,223",Shipped,12,2004,Trucks and Buses,S18_2319,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10358,20,36,728,Shipped,12,2004,Trucks and Buses,S18_2319,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10370,22,100,"3,949",Shipped,1,2005,Trucks and Buses,S18_2319,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Medium
+10383,27,100,"3,844",Shipped,2,2005,Trucks and Buses,S18_2319,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10412,56,98,"5,498",Shipped,5,2005,Trucks and Buses,S18_2319,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10425,38,99,"3,778",In Process,5,2005,Trucks and Buses,S18_2319,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Medium
+10101,25,100,"3,782",Shipped,1,2003,Vintage Cars,S18_2325,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Medium
+10110,33,100,"3,860",Shipped,3,2003,Vintage Cars,S18_2325,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10124,42,100,"4,432",Shipped,5,2003,Vintage Cars,S18_2325,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Medium
+10149,33,100,"4,950",Shipped,9,2003,Vintage Cars,S18_2325,Signal Collectibles Ltd.,Brisbane,USA,NA,Taylor,Sue,Medium
+10162,38,100,"4,300",Shipped,10,2003,Vintage Cars,S18_2325,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10173,31,100,"4,493",Shipped,11,2003,Vintage Cars,S18_2325,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Medium
+10182,20,100,"2,212",Shipped,11,2003,Vintage Cars,S18_2325,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10193,44,100,"4,643",Shipped,11,2003,Vintage Cars,S18_2325,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Medium
+10204,26,100,"3,206",Shipped,12,2003,Vintage Cars,S18_2325,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10214,27,100,"3,604",Shipped,1,2004,Vintage Cars,S18_2325,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Medium
+10227,46,100,"7,018",Shipped,3,2004,Vintage Cars,S18_2325,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Large
+10243,47,100,"6,154",Shipped,4,2004,Vintage Cars,S18_2325,Diecast Collectables,Boston,USA,NA,Franco,Valarie,Medium
+10280,37,100,"4,751",Shipped,8,2004,Vintage Cars,S18_2325,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Medium
+10288,31,100,"3,823",Shipped,9,2004,Vintage Cars,S18_2325,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Medium
+10304,24,100,"2,441",Shipped,10,2004,Vintage Cars,S18_2325,Auto Assoc. & Cie.,Versailles,France,EMEA,Tonini,Daniel,Small
+10312,31,100,"4,729",Shipped,10,2004,Vintage Cars,S18_2325,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10322,50,100,"12,537",Shipped,11,2004,Vintage Cars,S18_2325,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Large
+10332,35,65,"2,264",Shipped,11,2004,Vintage Cars,S18_2325,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Small
+10344,30,100,"3,928",Shipped,11,2004,Vintage Cars,S18_2325,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Medium
+10356,29,100,"3,630",Shipped,12,2004,Vintage Cars,S18_2325,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Medium
+10367,27,100,"4,196",Resolved,1,2005,Vintage Cars,S18_2325,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Medium
+10380,40,100,"4,932",Shipped,2,2005,Vintage Cars,S18_2325,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10390,31,99,"3,069",Shipped,3,2005,Vintage Cars,S18_2325,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10409,6,100,786,Shipped,4,2005,Vintage Cars,S18_2325,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Small
+10420,45,100,"4,977",In Process,5,2005,Vintage Cars,S18_2325,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Medium
+10103,22,54,"1,190",Shipped,1,2003,Trucks and Buses,S18_2432,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Small
+10114,45,69,"3,090",Shipped,4,2003,Trucks and Buses,S18_2432,"La Corne D'abondance, Co.",Paris,France,EMEA,Bertrand,Marie,Medium
+10126,43,65,"2,796",Shipped,5,2003,Trucks and Buses,S18_2432,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Small
+10140,46,62,"2,852",Shipped,7,2003,Trucks and Buses,S18_2432,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Small
+10151,39,69,"2,702",Shipped,9,2003,Trucks and Buses,S18_2432,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Koskitalo,Pirkko,Small
+10165,31,71,"2,204",Shipped,10,2003,Trucks and Buses,S18_2432,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Small
+10175,41,69,"2,840",Shipped,11,2003,Trucks and Buses,S18_2432,"Stylish Desk Decors, Co.",London,UK,EMEA,Brown,Ann,Small
+10184,44,60,"2,647",Shipped,11,2003,Trucks and Buses,S18_2432,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Roel,Jose Pedro,Small
+10194,45,70,"3,172",Shipped,11,2003,Trucks and Buses,S18_2432,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Medium
+10207,37,70,"2,586",Shipped,12,2003,Trucks and Buses,S18_2432,Diecast Collectables,Boston,USA,NA,Franco,Valarie,Small
+10217,35,61,"2,148",Shipped,2,2004,Trucks and Buses,S18_2432,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Small
+10229,28,60,"1,667",Shipped,3,2004,Trucks and Buses,S18_2432,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10246,30,62,"1,860",Shipped,5,2004,Trucks and Buses,S18_2432,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10259,30,49,"1,477",Shipped,6,2004,Trucks and Buses,S18_2432,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Small
+10271,25,69,"1,732",Shipped,7,2004,Trucks and Buses,S18_2432,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10281,29,58,"1,674",Shipped,8,2004,Trucks and Buses,S18_2432,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Small
+10291,26,58,"1,501",Shipped,9,2004,Trucks and Buses,S18_2432,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Small
+10305,41,53,"2,193",Shipped,10,2004,Trucks and Buses,S18_2432,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Small
+10313,34,53,"1,798",Shipped,10,2004,Trucks and Buses,S18_2432,Canadian Gift Exchange Network,Vancouver,Canada,NA,Tannamuri,Yoshi,Small
+10322,35,61,"2,142",Shipped,11,2004,Trucks and Buses,S18_2432,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Small
+10334,34,61,"2,087",On Hold,11,2004,Trucks and Buses,S18_2432,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Berglund,Christina,Small
+10347,50,100,"6,835",Shipped,11,2004,Trucks and Buses,S18_2432,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10357,41,62,"2,542",Shipped,12,2004,Trucks and Buses,S18_2432,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10370,22,97,"2,131",Shipped,1,2005,Trucks and Buses,S18_2432,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10381,35,49,"1,702",Shipped,2,2005,Trucks and Buses,S18_2432,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Small
+10391,44,39,"1,694",Shipped,3,2005,Trucks and Buses,S18_2432,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10412,47,62,"2,914",Shipped,5,2005,Trucks and Buses,S18_2432,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10425,19,49,935,In Process,5,2005,Trucks and Buses,S18_2432,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Small
+10106,34,90,"3,073",Shipped,2,2003,Planes,S18_2581,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Medium
+10120,29,72,"2,082",Shipped,4,2003,Planes,S18_2581,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Small
+10133,49,69,"3,394",Shipped,6,2003,Planes,S18_2581,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10145,30,85,"2,560",Shipped,8,2003,Planes,S18_2581,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Small
+10168,21,71,"1,490",Shipped,10,2003,Planes,S18_2581,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Small
+10210,50,77,"3,844",Shipped,1,2004,Planes,S18_2581,Osaka Souveniers Co.,Osaka,Japan,Japan,Kentary,Mory,Medium
+10223,47,100,"4,725",Shipped,2,2004,Planes,S18_2581,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10235,24,76,"1,825",Shipped,4,2004,Planes,S18_2581,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Lincoln,Elizabeth,Small
+10250,27,99,"2,669",Shipped,5,2004,Planes,S18_2581,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Small
+10263,33,86,"2,844",Shipped,6,2004,Planes,S18_2581,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Small
+10275,35,90,"3,164",Shipped,7,2004,Planes,S18_2581,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Medium
+10284,31,72,"2,226",Shipped,8,2004,Planes,S18_2581,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Klaeboe,Jan,Small
+10297,25,83,"2,070",Shipped,9,2004,Planes,S18_2581,"Clover Collections, Co.",Dublin,Ireland,EMEA,Cassidy,Dean,Small
+10308,27,83,"2,235",Shipped,10,2004,Planes,S18_2581,Mini Classics,White Plains,USA,NA,Frick,Steve,Small
+10318,31,100,"3,116",Shipped,11,2004,Planes,S18_2581,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Medium
+10327,45,100,"4,782",Resolved,11,2004,Planes,S18_2581,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Medium
+10339,27,100,"2,811",Shipped,11,2004,Planes,S18_2581,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Small
+10353,27,100,"3,516",Shipped,12,2004,Planes,S18_2581,Gift Ideas Corp.,Glendale,USA,NA,Lewis,Dan,Medium
+10374,42,69,"2,909",Shipped,2,2005,Planes,S18_2581,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Calaghan,Tony,Small
+10386,21,75,"1,570",Resolved,3,2005,Planes,S18_2581,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10398,34,77,"2,614",Shipped,3,2005,Planes,S18_2581,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Small
+10401,42,76,"3,193",On Hold,4,2005,Planes,S18_2581,Tekni Collectables Inc.,Newark,USA,NA,Brown,William,Medium
+10416,15,99,"1,483",Shipped,5,2005,Planes,S18_2581,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Small
+10107,29,71,"2,055",Shipped,2,2003,Motorcycles,S18_2625,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Small
+10120,46,58,"2,675",Shipped,4,2003,Motorcycles,S18_2625,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Small
+10134,30,62,"1,853",Shipped,7,2003,Motorcycles,S18_2625,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Small
+10145,30,50,"1,490",Shipped,8,2003,Motorcycles,S18_2625,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Small
+10159,42,51,"2,162",Shipped,10,2003,Motorcycles,S18_2625,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Small
+10168,46,61,"2,814",Shipped,10,2003,Motorcycles,S18_2625,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Small
+10180,25,64,"1,605",Shipped,11,2003,Motorcycles,S18_2625,Daedalus Designs Imports,Lille,France,EMEA,Rance,Martine,Small
+10188,32,65,"2,093",Shipped,11,2003,Motorcycles,S18_2625,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Small
+10201,30,65,"1,944",Shipped,12,2003,Motorcycles,S18_2625,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Small
+10210,40,50,"1,987",Shipped,1,2004,Motorcycles,S18_2625,Osaka Souveniers Co.,Osaka,Japan,Japan,Kentary,Mory,Small
+10223,28,61,"1,696",Shipped,2,2004,Motorcycles,S18_2625,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Small
+10236,23,56,"1,282",Shipped,4,2004,Motorcycles,S18_2625,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Small
+10251,29,61,"1,774",Shipped,5,2004,Motorcycles,S18_2625,Tekni Collectables Inc.,Newark,USA,NA,Brown,William,Small
+10263,34,59,"1,998",Shipped,6,2004,Motorcycles,S18_2625,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Small
+10275,37,64,"2,353",Shipped,7,2004,Motorcycles,S18_2625,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Small
+10285,20,49,981,Shipped,8,2004,Motorcycles,S18_2625,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Small
+10298,32,48,"1,551",Shipped,9,2004,Motorcycles,S18_2625,Atelier graphique,Nantes,France,EMEA,Schmitt,Carine,Small
+10308,34,52,"1,771",Shipped,10,2004,Motorcycles,S18_2625,Mini Classics,White Plains,USA,NA,Frick,Steve,Small
+10318,42,53,"2,213",Shipped,11,2004,Motorcycles,S18_2625,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Small
+10329,38,100,"5,266",Shipped,11,2004,Motorcycles,S18_2625,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10339,30,62,"1,865",Shipped,11,2004,Motorcycles,S18_2625,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Small
+10362,23,50,"1,142",Shipped,1,2005,Motorcycles,S18_2625,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Small
+10374,22,53,"1,173",Shipped,2,2005,Motorcycles,S18_2625,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Calaghan,Tony,Small
+10389,39,100,"6,981",Shipped,3,2005,Motorcycles,S18_2625,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10402,55,56,"3,065",Shipped,4,2005,Motorcycles,S18_2625,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Medium
+10417,36,61,"2,202",Disputed,5,2005,Motorcycles,S18_2625,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10101,26,100,"3,773",Shipped,1,2003,Vintage Cars,S18_2795,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Medium
+10110,31,100,"5,074",Shipped,3,2003,Vintage Cars,S18_2795,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10125,34,100,"6,483",Shipped,5,2003,Vintage Cars,S18_2795,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10139,41,100,"7,956",Shipped,7,2003,Vintage Cars,S18_2795,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Large
+10149,23,100,"4,231",Shipped,9,2003,Vintage Cars,S18_2795,Signal Collectibles Ltd.,Brisbane,USA,NA,Taylor,Sue,Medium
+10162,48,100,"7,209",Shipped,10,2003,Vintage Cars,S18_2795,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Large
+10173,22,100,"3,453",Shipped,11,2003,Vintage Cars,S18_2795,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Medium
+10182,21,100,"3,048",Shipped,11,2003,Vintage Cars,S18_2795,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10193,22,100,"3,675",Shipped,11,2003,Vintage Cars,S18_2795,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Medium
+10205,40,100,"7,492",Shipped,12,2003,Vintage Cars,S18_2795,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Large
+10214,50,100,"9,535",Shipped,1,2004,Vintage Cars,S18_2795,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Large
+10227,29,100,"5,579",Shipped,3,2004,Vintage Cars,S18_2795,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Medium
+10244,43,100,"5,950",Shipped,4,2004,Vintage Cars,S18_2795,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10255,24,100,"3,726",Shipped,6,2004,Vintage Cars,S18_2795,Mini Caravy,Strasbourg,France,EMEA,Citeaux,Frederique,Medium
+10280,22,100,"4,455",Shipped,8,2004,Vintage Cars,S18_2795,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Medium
+10289,43,100,"8,272",Shipped,9,2004,Vintage Cars,S18_2795,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Large
+10304,20,100,"3,578",Shipped,10,2004,Vintage Cars,S18_2795,Auto Assoc. & Cie.,Versailles,France,EMEA,Tonini,Daniel,Medium
+10312,25,100,"3,881",Shipped,10,2004,Vintage Cars,S18_2795,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10322,36,100,"5,797",Shipped,11,2004,Vintage Cars,S18_2795,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Medium
+10332,24,53,"1,264",Shipped,11,2004,Vintage Cars,S18_2795,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Small
+10347,21,100,"4,815",Shipped,11,2004,Vintage Cars,S18_2795,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10356,30,100,"4,462",Shipped,12,2004,Vintage Cars,S18_2795,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Medium
+10367,32,95,"3,033",Resolved,1,2005,Vintage Cars,S18_2795,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Medium
+10380,21,47,991,Shipped,2,2005,Vintage Cars,S18_2795,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10390,26,78,"2,031",Shipped,3,2005,Vintage Cars,S18_2795,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10421,35,100,"5,434",In Process,5,2005,Vintage Cars,S18_2795,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10109,26,100,"3,157",Shipped,3,2003,Classic Cars,S18_2870,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Medium
+10123,46,100,"5,161",Shipped,5,2003,Classic Cars,S18_2870,Atelier graphique,Nantes,France,EMEA,Schmitt,Carine,Medium
+10137,37,100,"4,347",Shipped,7,2003,Classic Cars,S18_2870,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Medium
+10148,27,100,"3,528",Shipped,9,2003,Classic Cars,S18_2870,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Medium
+10161,23,100,"3,188",Shipped,10,2003,Classic Cars,S18_2870,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Medium
+10172,39,100,"6,023",Shipped,11,2003,Classic Cars,S18_2870,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Medium
+10181,27,100,"3,885",Shipped,11,2003,Classic Cars,S18_2870,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Medium
+10192,38,100,"4,966",Shipped,11,2003,Classic Cars,S18_2870,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Medium
+10204,27,100,"4,170",Shipped,12,2003,Classic Cars,S18_2870,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10212,40,100,"4,910",Shipped,1,2004,Classic Cars,S18_2870,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10226,24,100,"3,231",Shipped,2,2004,Classic Cars,S18_2870,Collectable Mini Designs Co.,San Diego,USA,NA,Thompson,Valarie,Medium
+10241,44,100,"6,853",Shipped,4,2004,Classic Cars,S18_2870,Mini Caravy,Strasbourg,France,EMEA,Citeaux,Frederique,Medium
+10253,37,100,"5,177",Cancelled,6,2004,Classic Cars,S18_2870,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Medium
+10266,20,100,"2,825",Shipped,7,2004,Classic Cars,S18_2870,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Small
+10278,39,100,"4,324",Shipped,8,2004,Classic Cars,S18_2870,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Medium
+10287,44,100,"5,053",Shipped,8,2004,Classic Cars,S18_2870,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10301,22,100,"3,223",Shipped,10,2003,Classic Cars,S18_2870,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Klaeboe,Jan,Medium
+10311,43,100,"5,279",Shipped,10,2004,Classic Cars,S18_2870,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10321,27,100,"2,851",Shipped,11,2004,Classic Cars,S18_2870,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Small
+10331,26,65,"1,687",Shipped,11,2004,Classic Cars,S18_2870,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Small
+10343,25,52,"1,308",Shipped,11,2004,Classic Cars,S18_2870,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Small
+10366,49,100,"6,145",Shipped,1,2005,Classic Cars,S18_2870,Royale Belge,Charleroi,Belgium,EMEA,Cartrain,Pascale,Medium
+10379,29,100,"5,127",Shipped,2,2005,Classic Cars,S18_2870,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10407,41,100,"6,386",On Hold,4,2005,Classic Cars,S18_2870,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Medium
+10419,55,100,"7,696",Shipped,5,2005,Classic Cars,S18_2870,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Large
+10103,27,83,"2,243",Shipped,1,2003,Vintage Cars,S18_2949,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Small
+10112,23,100,"2,540",Shipped,3,2003,Vintage Cars,S18_2949,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Berglund,Christina,Small
+10126,31,90,"2,795",Shipped,5,2003,Vintage Cars,S18_2949,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Small
+10139,46,100,"5,546",Shipped,7,2003,Vintage Cars,S18_2949,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Medium
+10150,47,91,"4,285",Shipped,9,2003,Vintage Cars,S18_2949,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10163,31,100,"3,329",Shipped,10,2003,Vintage Cars,S18_2949,Classic Legends Inc.,NYC,USA,NA,Hernandez,Maria,Medium
+10174,46,100,"5,592",Shipped,11,2003,Vintage Cars,S18_2949,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Calaghan,Tony,Medium
+10183,37,89,"3,299",Shipped,11,2003,Vintage Cars,S18_2949,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Cervantes,Francisca,Medium
+10193,28,93,"2,610",Shipped,11,2003,Vintage Cars,S18_2949,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Small
+10206,37,90,"3,336",Shipped,12,2003,Vintage Cars,S18_2949,Canadian Gift Exchange Network,Vancouver,Canada,NA,Tannamuri,Yoshi,Medium
+10215,49,100,"5,510",Shipped,1,2004,Vintage Cars,S18_2949,West Coast Collectables Co.,Burbank,USA,NA,Thompson,Steve,Medium
+10228,24,100,"2,504",Shipped,3,2004,Vintage Cars,S18_2949,Cambridge Collectables Co.,Cambridge,USA,NA,Tseng,Kyung,Small
+10244,30,100,"3,526",Shipped,4,2004,Vintage Cars,S18_2949,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10257,50,88,"4,407",Shipped,6,2004,Vintage Cars,S18_2949,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Medium
+10270,31,96,"2,983",Shipped,7,2004,Vintage Cars,S18_2949,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Small
+10280,46,100,"5,126",Shipped,8,2004,Vintage Cars,S18_2949,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Medium
+10291,47,100,"5,714",Shipped,9,2004,Vintage Cars,S18_2949,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10304,46,100,"4,614",Shipped,10,2004,Vintage Cars,S18_2949,Auto Assoc. & Cie.,Versailles,France,EMEA,Tonini,Daniel,Medium
+10312,37,100,"3,711",Shipped,10,2004,Vintage Cars,S18_2949,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10322,33,100,"3,525",Shipped,11,2004,Vintage Cars,S18_2949,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Medium
+10333,31,90,"2,795",Shipped,11,2004,Vintage Cars,S18_2949,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Small
+10347,48,100,"4,814",Shipped,11,2004,Vintage Cars,S18_2949,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10357,41,87,"3,572",Shipped,12,2004,Vintage Cars,S18_2949,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10369,42,100,"4,581",Shipped,1,2005,Vintage Cars,S18_2949,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Medium
+10381,41,100,"4,320",Shipped,2,2005,Vintage Cars,S18_2949,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10391,32,45,"1,448",Shipped,3,2005,Vintage Cars,S18_2949,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10423,10,88,881,In Process,5,2005,Vintage Cars,S18_2949,Petit Auto,Bruxelles,Belgium,EMEA,Dewey,Catherine,Small
+10103,35,57,"2,011",Shipped,1,2003,Vintage Cars,S18_2957,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Small
+10111,28,64,"1,801",Shipped,3,2003,Vintage Cars,S18_2957,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Small
+10126,46,74,"3,390",Shipped,5,2003,Vintage Cars,S18_2957,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Medium
+10139,20,71,"1,424",Shipped,7,2003,Vintage Cars,S18_2957,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Small
+10150,30,50,"1,499",Shipped,9,2003,Vintage Cars,S18_2957,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Small
+10163,48,70,"3,358",Shipped,10,2003,Vintage Cars,S18_2957,Classic Legends Inc.,NYC,USA,NA,Hernandez,Maria,Medium
+10173,28,54,"1,504",Shipped,11,2003,Vintage Cars,S18_2957,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Small
+10183,39,68,"2,655",Shipped,11,2003,Vintage Cars,S18_2957,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Cervantes,Francisca,Small
+10193,24,52,"1,244",Shipped,11,2003,Vintage Cars,S18_2957,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Small
+10206,28,67,"1,889",Shipped,12,2003,Vintage Cars,S18_2957,Canadian Gift Exchange Network,Vancouver,Canada,NA,Tannamuri,Yoshi,Small
+10215,31,59,"1,820",Shipped,1,2004,Vintage Cars,S18_2957,West Coast Collectables Co.,Burbank,USA,NA,Thompson,Steve,Small
+10228,45,64,"2,867",Shipped,3,2004,Vintage Cars,S18_2957,Cambridge Collectables Co.,Cambridge,USA,NA,Tseng,Kyung,Small
+10244,24,58,"1,394",Shipped,4,2004,Vintage Cars,S18_2957,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10257,49,54,"2,632",Shipped,6,2004,Vintage Cars,S18_2957,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Small
+10269,32,63,"2,019",Shipped,7,2004,Vintage Cars,S18_2957,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Small
+10280,43,69,"2,955",Shipped,8,2004,Vintage Cars,S18_2957,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Small
+10291,37,51,"1,872",Shipped,9,2004,Vintage Cars,S18_2957,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Small
+10304,24,65,"1,559",Shipped,10,2004,Vintage Cars,S18_2957,Auto Assoc. & Cie.,Versailles,France,EMEA,Tonini,Daniel,Small
+10312,35,54,"1,880",Shipped,10,2004,Vintage Cars,S18_2957,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10322,41,30,"1,225",Shipped,11,2004,Vintage Cars,S18_2957,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Small
+10332,26,100,"2,979",Shipped,11,2004,Vintage Cars,S18_2957,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Small
+10347,34,65,"2,209",Shipped,11,2004,Vintage Cars,S18_2957,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Small
+10357,49,71,"3,458",Shipped,12,2004,Vintage Cars,S18_2957,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10369,28,44,"1,238",Shipped,1,2005,Vintage Cars,S18_2957,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Small
+10381,40,68,"2,723",Shipped,2,2005,Vintage Cars,S18_2957,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Small
+10392,37,60,"2,219",Shipped,3,2005,Vintage Cars,S18_2957,Mini Auto Werke,Graz,Austria,EMEA,Mendel,Roland,Small
+10423,31,54,"1,665",In Process,5,2005,Vintage Cars,S18_2957,Petit Auto,Bruxelles,Belgium,EMEA,Dewey,Catherine,Small
+10106,41,83,"3,421",Shipped,2,2003,Ships,S18_3029,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Medium
+10119,21,89,"1,879",Shipped,4,2003,Ships,S18_3029,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Small
+10130,40,96,"3,854",Shipped,6,2003,Ships,S18_3029,Auto-Moto Classics Inc.,Brickhaven,USA,NA,Taylor,Leslie,Medium
+10143,46,75,"3,443",Shipped,8,2003,Ships,S18_3029,Mini Creations Ltd.,New Bedford,USA,NA,Tam,Wing C,Medium
+10155,44,79,"3,482",Shipped,10,2003,Ships,S18_3029,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Medium
+10167,46,73,"3,364",Cancelled,10,2003,Ships,S18_3029,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10178,41,82,"3,351",Shipped,11,2003,Ships,S18_3029,Alpha Cognac,Toulouse,France,EMEA,Roulet,Annette,Medium
+10186,32,89,"2,863",Shipped,11,2003,Ships,S18_3029,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Hardy,Thomas,Small
+10197,46,88,"4,036",Shipped,11,2003,Ships,S18_3029,Enaco Distributors,Barcelona,Spain,EMEA,Saavedra,Eduardo,Medium
+10209,28,100,"2,818",Shipped,1,2004,Ships,S18_3029,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Chandler,Michael,Small
+10222,49,95,"4,636",Shipped,2,2004,Ships,S18_3029,Collectable Mini Designs Co.,San Diego,USA,NA,Thompson,Valarie,Medium
+10248,21,74,"1,554",Cancelled,5,2004,Ships,S18_3029,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Small
+10262,32,84,"2,698",Cancelled,6,2004,Ships,S18_3029,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10273,34,98,"3,334",Shipped,7,2004,Ships,S18_3029,Petit Auto,Bruxelles,Belgium,EMEA,Dewey,Catherine,Medium
+10283,21,98,"2,059",Shipped,8,2004,Ships,S18_3029,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Lincoln,Elizabeth,Small
+10296,21,96,"2,023",Shipped,9,2004,Ships,S18_3029,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Donnermeyer,Michael,Small
+10307,31,83,"2,587",Shipped,10,2004,Ships,S18_3029,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Cervantes,Francisca,Small
+10316,21,95,"1,987",Shipped,11,2004,Ships,S18_3029,giftsbymail.co.uk,Cowes,UK,EMEA,Bennett,Helen,Small
+10327,25,46,"1,147",Resolved,11,2004,Ships,S18_3029,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Small
+10338,28,83,"2,312",Shipped,11,2004,Ships,S18_3029,Royale Belge,Charleroi,Belgium,EMEA,Cartrain,Pascale,Small
+10350,43,65,"2,794",Shipped,12,2004,Ships,S18_3029,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10373,22,87,"1,908",Shipped,1,2005,Ships,S18_3029,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Koskitalo,Pirkko,Small
+10386,37,93,"3,441",Resolved,3,2005,Ships,S18_3029,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10398,28,72,"2,023",Shipped,3,2005,Ships,S18_3029,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Small
+10400,30,75,"2,245",Shipped,4,2005,Ships,S18_3029,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Small
+10414,44,74,"3,255",On Hold,5,2005,Ships,S18_3029,Gifts4AllAges.com,Boston,USA,NA,Yoshido,Juri,Medium
+10103,25,100,"2,540",Shipped,1,2003,Vintage Cars,S18_3136,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Small
+10111,43,100,"4,818",Shipped,3,2003,Vintage Cars,S18_3136,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Medium
+10126,30,97,"2,922",Shipped,5,2003,Vintage Cars,S18_3136,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Small
+10139,20,90,"1,801",Shipped,7,2003,Vintage Cars,S18_3136,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Small
+10150,26,100,"2,804",Shipped,9,2003,Vintage Cars,S18_3136,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Small
+10163,40,100,"4,901",Shipped,10,2003,Vintage Cars,S18_3136,Classic Legends Inc.,NYC,USA,NA,Hernandez,Maria,Medium
+10173,31,89,"2,759",Shipped,11,2003,Vintage Cars,S18_3136,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Small
+10183,22,100,"2,488",Shipped,11,2003,Vintage Cars,S18_3136,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Cervantes,Francisca,Small
+10193,23,100,"2,770",Shipped,11,2003,Vintage Cars,S18_3136,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Small
+10206,30,100,"3,581",Shipped,12,2003,Vintage Cars,S18_3136,Canadian Gift Exchange Network,Vancouver,Canada,NA,Tannamuri,Yoshi,Medium
+10215,49,100,"5,285",Shipped,1,2004,Vintage Cars,S18_3136,West Coast Collectables Co.,Burbank,USA,NA,Thompson,Steve,Medium
+10228,31,100,"3,182",Shipped,3,2004,Vintage Cars,S18_3136,Cambridge Collectables Co.,Cambridge,USA,NA,Tseng,Kyung,Medium
+10244,29,100,"3,341",Shipped,4,2004,Vintage Cars,S18_3136,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10257,37,85,"3,138",Shipped,6,2004,Vintage Cars,S18_3136,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Medium
+10270,38,100,"4,775",Shipped,7,2004,Vintage Cars,S18_3136,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Medium
+10280,29,100,"3,006",Shipped,8,2004,Vintage Cars,S18_3136,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Medium
+10291,23,100,"2,866",Shipped,9,2004,Vintage Cars,S18_3136,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Small
+10304,26,86,"2,233",Shipped,10,2004,Vintage Cars,S18_3136,Auto Assoc. & Cie.,Versailles,France,EMEA,Tonini,Daniel,Small
+10312,38,100,"4,457",Shipped,10,2004,Vintage Cars,S18_3136,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10322,48,47,"2,258",Shipped,11,2004,Vintage Cars,S18_3136,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Small
+10332,40,40,"1,592",Shipped,11,2004,Vintage Cars,S18_3136,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Small
+10347,45,100,"4,948",Shipped,11,2004,Vintage Cars,S18_3136,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10357,44,100,"5,161",Shipped,12,2004,Vintage Cars,S18_3136,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10369,21,94,"1,979",Shipped,1,2005,Vintage Cars,S18_3136,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Small
+10381,35,100,"4,288",Shipped,2,2005,Vintage Cars,S18_3136,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10392,29,87,"2,521",Shipped,3,2005,Vintage Cars,S18_3136,Mini Auto Werke,Graz,Austria,EMEA,Mendel,Roland,Small
+10423,21,85,"1,781",In Process,5,2005,Vintage Cars,S18_3136,Petit Auto,Bruxelles,Belgium,EMEA,Dewey,Catherine,Small
+10105,22,100,"3,065",Shipped,2,2003,Vintage Cars,S18_3140,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Medium
+10117,26,100,"3,551",Shipped,4,2003,Vintage Cars,S18_3140,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10128,41,100,"5,544",Shipped,6,2003,Vintage Cars,S18_3140,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10142,47,100,"6,034",Shipped,8,2003,Vintage Cars,S18_3140,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10153,31,100,"3,642",Shipped,9,2003,Vintage Cars,S18_3140,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10166,43,100,"6,931",Shipped,10,2003,Vintage Cars,S18_3140,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Medium
+10177,23,100,"3,676",Shipped,11,2003,Vintage Cars,S18_3140,CAF Imports,Madrid,Spain,EMEA,Fernandez,Jesus,Medium
+10185,28,100,"3,442",Shipped,11,2003,Vintage Cars,S18_3140,Mini Creations Ltd.,New Bedford,USA,NA,Tam,Wing C,Medium
+10196,49,100,"6,894",Shipped,11,2003,Vintage Cars,S18_3140,Super Scale Inc.,New Haven,USA,NA,Murphy,Leslie,Medium
+10208,24,100,"2,622",Shipped,1,2004,Vintage Cars,S18_3140,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Small
+10221,33,100,"4,417",Shipped,2,2004,Vintage Cars,S18_3140,Petit Auto,Bruxelles,Belgium,EMEA,Dewey,Catherine,Medium
+10232,22,100,"3,606",Shipped,3,2004,Vintage Cars,S18_3140,giftsbymail.co.uk,Cowes,UK,EMEA,Bennett,Helen,Medium
+10248,32,100,"3,803",Cancelled,5,2004,Vintage Cars,S18_3140,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10273,40,100,"5,026",Shipped,7,2004,Vintage Cars,S18_3140,Petit Auto,Bruxelles,Belgium,EMEA,Dewey,Catherine,Medium
+10282,43,100,"6,696",Shipped,8,2004,Vintage Cars,S18_3140,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10293,24,100,"2,819",Shipped,9,2004,Vintage Cars,S18_3140,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Small
+10306,32,100,"3,759",Shipped,10,2004,Vintage Cars,S18_3140,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10314,20,100,"2,732",Shipped,10,2004,Vintage Cars,S18_3140,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Small
+10325,24,69,"1,659",Shipped,11,2004,Vintage Cars,S18_3140,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Small
+10336,48,100,"5,778",Shipped,11,2004,Vintage Cars,S18_3140,"La Corne D'abondance, Co.",Paris,France,EMEA,Bertrand,Marie,Medium
+10350,44,100,"5,191",Shipped,12,2004,Vintage Cars,S18_3140,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10372,28,100,"3,863",Shipped,1,2005,Vintage Cars,S18_3140,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Medium
+10383,24,62,"1,476",Shipped,2,2005,Vintage Cars,S18_3140,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10396,33,100,"5,274",Shipped,3,2005,Vintage Cars,S18_3140,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10414,41,100,"4,872",On Hold,5,2005,Vintage Cars,S18_3140,Gifts4AllAges.com,Boston,USA,NA,Yoshido,Juri,Medium
+10104,23,100,"4,557",Shipped,1,2003,Classic Cars,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10109,46,100,"8,257",Shipped,3,2003,Classic Cars,S18_3232,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Large
+10114,48,100,"8,209",Shipped,4,2003,Classic Cars,S18_3232,"La Corne D'abondance, Co.",Paris,France,EMEA,Bertrand,Marie,Large
+10122,25,100,"3,599",Shipped,5,2003,Classic Cars,S18_3232,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Medium
+10127,22,100,"3,837",Shipped,6,2003,Classic Cars,S18_3232,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10136,41,100,"8,332",Shipped,7,2003,Classic Cars,S18_3232,Alpha Cognac,Toulouse,France,EMEA,Roulet,Annette,Large
+10141,34,100,"4,837",Shipped,8,2003,Classic Cars,S18_3232,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Medium
+10148,32,100,"5,419",Shipped,9,2003,Classic Cars,S18_3232,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Medium
+10151,21,100,"3,734",Shipped,9,2003,Classic Cars,S18_3232,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Koskitalo,Pirkko,Medium
+10160,20,100,"3,996",Shipped,10,2003,Classic Cars,S18_3232,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Chandler,Michael,Medium
+10165,47,100,"8,755",Shipped,10,2003,Classic Cars,S18_3232,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Large
+10171,39,100,"5,481",Shipped,11,2003,Classic Cars,S18_3232,Quebec Home Shopping Network,Montreal,Canada,NA,Fresnisre,Jean,Medium
+10175,29,100,"4,420",Shipped,11,2003,Classic Cars,S18_3232,"Stylish Desk Decors, Co.",London,UK,EMEA,Brown,Ann,Medium
+10181,45,100,"6,325",Shipped,11,2003,Classic Cars,S18_3232,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Medium
+10184,28,100,"4,410",Shipped,11,2003,Classic Cars,S18_3232,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Roel,Jose Pedro,Medium
+10192,26,100,"3,918",Shipped,11,2003,Classic Cars,S18_3232,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Medium
+10195,50,100,"7,621",Shipped,11,2003,Classic Cars,S18_3232,Mini Classics,White Plains,USA,NA,Frick,Steve,Large
+10203,48,100,"8,291",Shipped,12,2003,Classic Cars,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Large
+10207,25,100,"3,937",Shipped,12,2003,Classic Cars,S18_3232,Diecast Collectables,Boston,USA,NA,Franco,Valarie,Medium
+10212,40,100,"5,554",Shipped,1,2004,Classic Cars,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10225,43,100,"6,408",Shipped,2,2004,Classic Cars,S18_3232,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10229,22,100,"4,173",Shipped,3,2004,Classic Cars,S18_3232,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10239,47,100,"7,083",Shipped,4,2004,Classic Cars,S18_3232,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Koskitalo,Pirkko,Large
+10246,36,100,"7,133",Shipped,5,2004,Classic Cars,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Large
+10253,40,100,"6,774",Cancelled,6,2004,Classic Cars,S18_3232,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Medium
+10259,27,100,"3,658",Shipped,6,2004,Classic Cars,S18_3232,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Medium
+10266,29,100,"4,813",Shipped,7,2004,Classic Cars,S18_3232,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Medium
+10271,20,100,"3,929",Shipped,7,2004,Classic Cars,S18_3232,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10278,42,100,"6,401",Shipped,8,2004,Classic Cars,S18_3232,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Medium
+10281,25,100,"4,191",Shipped,8,2004,Classic Cars,S18_3232,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Medium
+10287,36,100,"5,853",Shipped,8,2004,Classic Cars,S18_3232,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10292,21,100,"2,845",Shipped,9,2004,Classic Cars,S18_3232,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Small
+10301,23,100,"4,012",Shipped,10,2003,Classic Cars,S18_3232,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Klaeboe,Jan,Medium
+10305,37,100,"7,456",Shipped,10,2004,Classic Cars,S18_3232,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Large
+10310,48,100,"8,941",Shipped,10,2004,Classic Cars,S18_3232,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Large
+10313,25,100,"4,572",Shipped,10,2004,Classic Cars,S18_3232,Canadian Gift Exchange Network,Vancouver,Canada,NA,Tannamuri,Yoshi,Medium
+10321,33,100,"5,700",Shipped,11,2004,Classic Cars,S18_3232,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Medium
+10324,27,100,"3,155",Shipped,11,2004,Classic Cars,S18_3232,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Medium
+10331,27,100,"4,171",Shipped,11,2004,Classic Cars,S18_3232,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Medium
+10334,20,100,"2,879",On Hold,11,2004,Classic Cars,S18_3232,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Berglund,Christina,Small
+10342,30,100,"5,030",Shipped,11,2004,Classic Cars,S18_3232,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10349,48,100,"7,397",Shipped,12,2004,Classic Cars,S18_3232,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Large
+10358,32,93,"2,992",Shipped,12,2004,Classic Cars,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10366,34,100,"6,276",Shipped,1,2005,Classic Cars,S18_3232,Royale Belge,Charleroi,Belgium,EMEA,Cartrain,Pascale,Medium
+10370,27,57,"1,535",Shipped,1,2005,Classic Cars,S18_3232,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10377,39,100,"7,265",Shipped,2,2005,Classic Cars,S18_3232,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Large
+10383,47,100,"6,869",Shipped,2,2005,Classic Cars,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10394,22,100,"3,353",Shipped,3,2005,Classic Cars,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10405,55,100,"8,289",Shipped,4,2005,Classic Cars,S18_3232,Mini Caravy,Strasbourg,France,EMEA,Citeaux,Frederique,Large
+10412,60,100,"11,888",Shipped,5,2005,Classic Cars,S18_3232,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Large
+10419,35,100,"5,927",Shipped,5,2005,Classic Cars,S18_3232,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Medium
+10425,28,100,"3,793",In Process,5,2005,Classic Cars,S18_3232,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Medium
+10105,38,100,"4,330",Shipped,2,2003,Trains,S18_3259,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Medium
+10117,21,96,"2,012",Shipped,4,2003,Trains,S18_3259,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Small
+10128,41,100,"4,837",Shipped,6,2003,Trains,S18_3259,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10142,22,98,"2,152",Shipped,8,2003,Trains,S18_3259,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10153,29,89,"2,573",Shipped,9,2003,Trains,S18_3259,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10165,50,100,"5,345",Shipped,10,2003,Trains,S18_3259,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10177,29,100,"3,071",Shipped,11,2003,Trains,S18_3259,CAF Imports,Madrid,Spain,EMEA,Fernandez,Jesus,Medium
+10185,49,81,"3,953",Shipped,11,2003,Trains,S18_3259,Mini Creations Ltd.,New Bedford,USA,NA,Tam,Wing C,Medium
+10196,35,100,"3,565",Shipped,11,2003,Trains,S18_3259,Super Scale Inc.,New Haven,USA,NA,Murphy,Leslie,Medium
+10208,48,100,"5,615",Shipped,1,2004,Trains,S18_3259,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Medium
+10221,23,81,"1,855",Shipped,2,2004,Trains,S18_3259,Petit Auto,Bruxelles,Belgium,EMEA,Dewey,Catherine,Small
+10232,48,96,"4,598",Shipped,3,2004,Trains,S18_3259,giftsbymail.co.uk,Cowes,UK,EMEA,Bennett,Helen,Medium
+10248,42,100,"5,082",Cancelled,5,2004,Trains,S18_3259,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10273,47,100,"5,451",Shipped,7,2004,Trains,S18_3259,Petit Auto,Bruxelles,Belgium,EMEA,Dewey,Catherine,Medium
+10282,36,100,"4,175",Shipped,8,2004,Trains,S18_3259,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10293,22,100,"2,418",Shipped,9,2004,Trains,S18_3259,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Small
+10306,40,92,"3,670",Shipped,10,2004,Trains,S18_3259,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10314,23,100,"2,482",Shipped,10,2004,Trains,S18_3259,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Small
+10326,32,100,"3,808",Shipped,11,2004,Trains,S18_3259,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Berglund,Christina,Medium
+10336,21,100,"2,230",Shipped,11,2004,Trains,S18_3259,"La Corne D'abondance, Co.",Paris,France,EMEA,Bertrand,Marie,Small
+10350,41,93,"3,815",Shipped,12,2004,Trains,S18_3259,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10372,25,85,"2,118",Shipped,1,2005,Trains,S18_3259,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Small
+10383,26,100,"3,340",Shipped,2,2005,Trains,S18_3259,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10396,24,90,"2,154",Shipped,3,2005,Trains,S18_3259,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10414,48,100,"5,808",On Hold,5,2005,Trains,S18_3259,Gifts4AllAges.com,Boston,USA,NA,Yoshido,Juri,Medium
+10108,26,68,"1,777",Shipped,3,2003,Classic Cars,S18_3278,Cruz & Sons Co.,Makati City,Philippines,Japan,Cruz,Arnold,Small
+10122,21,73,"1,537",Shipped,5,2003,Classic Cars,S18_3278,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Small
+10135,45,78,"3,510",Shipped,7,2003,Classic Cars,S18_3278,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10147,36,86,"3,097",Shipped,9,2003,Classic Cars,S18_3278,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Medium
+10159,21,81,"1,705",Shipped,10,2003,Classic Cars,S18_3278,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Small
+10169,32,71,"2,264",Shipped,11,2003,Classic Cars,S18_3278,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10181,30,83,"2,485",Shipped,11,2003,Classic Cars,S18_3278,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Small
+10191,36,95,"3,416",Shipped,11,2003,Classic Cars,S18_3278,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Medium
+10203,33,86,"2,839",Shipped,12,2003,Classic Cars,S18_3278,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10211,35,78,"2,730",Shipped,1,2004,Classic Cars,S18_3278,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Small
+10225,37,96,"3,541",Shipped,2,2004,Classic Cars,S18_3278,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10238,41,73,"3,000",Shipped,4,2004,Classic Cars,S18_3278,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Small
+10252,20,76,"1,528",Shipped,5,2004,Classic Cars,S18_3278,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Small
+10265,45,87,"3,908",Shipped,7,2004,Classic Cars,S18_3278,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Medium
+10276,38,70,"2,658",Shipped,8,2004,Classic Cars,S18_3278,Online Mini Collectables,Brickhaven,USA,NA,Barajas,Miguel,Small
+10287,43,71,"3,043",Shipped,8,2004,Classic Cars,S18_3278,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10300,49,79,"3,861",Shipped,10,2003,Classic Cars,S18_3278,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Medium
+10310,27,80,"2,171",Shipped,10,2004,Classic Cars,S18_3278,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Small
+10319,46,74,"3,403",Shipped,11,2004,Classic Cars,S18_3278,Microscale Inc.,NYC,USA,NA,Kuo,Kee,Medium
+10329,38,59,"2,246",Shipped,11,2004,Classic Cars,S18_3278,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Small
+10342,25,67,"1,669",Shipped,11,2004,Classic Cars,S18_3278,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Small
+10363,46,60,"2,774",Shipped,1,2005,Classic Cars,S18_3278,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Small
+10378,22,100,"2,464",Shipped,2,2005,Classic Cars,S18_3278,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10390,40,100,"5,492",Shipped,3,2005,Classic Cars,S18_3278,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10103,46,100,"4,792",Shipped,1,2003,Vintage Cars,S18_3320,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Medium
+10111,39,100,"4,179",Shipped,3,2003,Vintage Cars,S18_3320,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Medium
+10126,38,82,"3,129",Shipped,5,2003,Vintage Cars,S18_3320,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Medium
+10139,30,100,"3,095",Shipped,7,2003,Vintage Cars,S18_3320,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Medium
+10149,42,94,"3,959",Shipped,9,2003,Vintage Cars,S18_3320,Signal Collectibles Ltd.,Brisbane,USA,NA,Taylor,Sue,Medium
+10163,43,100,"4,991",Shipped,10,2003,Vintage Cars,S18_3320,Classic Legends Inc.,NYC,USA,NA,Hernandez,Maria,Medium
+10173,29,95,"2,762",Shipped,11,2003,Vintage Cars,S18_3320,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Small
+10182,33,86,"2,848",Shipped,11,2003,Vintage Cars,S18_3320,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10193,32,79,"2,540",Shipped,11,2003,Vintage Cars,S18_3320,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Small
+10206,28,87,"2,444",Shipped,12,2003,Vintage Cars,S18_3320,Canadian Gift Exchange Network,Vancouver,Canada,NA,Tannamuri,Yoshi,Small
+10215,41,100,"4,556",Shipped,1,2004,Vintage Cars,S18_3320,West Coast Collectables Co.,Burbank,USA,NA,Thompson,Steve,Medium
+10227,33,100,"3,667",Shipped,3,2004,Vintage Cars,S18_3320,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Medium
+10244,36,84,"3,036",Shipped,4,2004,Vintage Cars,S18_3320,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10257,26,89,"2,322",Shipped,6,2004,Vintage Cars,S18_3320,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Small
+10280,34,100,"3,474",Shipped,8,2004,Vintage Cars,S18_3320,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Medium
+10290,26,96,"2,502",Shipped,9,2004,Vintage Cars,S18_3320,Auto-Moto Classics Inc.,Brickhaven,USA,NA,Taylor,Leslie,Small
+10304,38,100,"3,958",Shipped,10,2004,Vintage Cars,S18_3320,Auto Assoc. & Cie.,Versailles,France,EMEA,Tonini,Daniel,Medium
+10312,33,100,"3,536",Shipped,10,2004,Vintage Cars,S18_3320,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10323,33,91,"3,012",Shipped,11,2004,Vintage Cars,S18_3320,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Medium
+10333,46,100,"11,337",Shipped,11,2004,Vintage Cars,S18_3320,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Large
+10347,26,100,"2,657",Shipped,11,2004,Vintage Cars,S18_3320,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Small
+10357,25,100,"2,604",Shipped,12,2004,Vintage Cars,S18_3320,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10369,45,73,"3,289",Shipped,1,2005,Vintage Cars,S18_3320,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Medium
+10382,50,100,"8,936",Shipped,2,2005,Vintage Cars,S18_3320,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Large
+10392,36,100,"4,036",Shipped,3,2005,Vintage Cars,S18_3320,Mini Auto Werke,Graz,Austria,EMEA,Mendel,Roland,Medium
+10423,21,89,"1,875",In Process,5,2005,Vintage Cars,S18_3320,Petit Auto,Bruxelles,Belgium,EMEA,Dewey,Catherine,Small
+10108,29,100,"4,050",Shipped,3,2003,Classic Cars,S18_3482,Cruz & Sons Co.,Makati City,Philippines,Japan,Cruz,Arnold,Medium
+10122,21,100,"2,469",Shipped,5,2003,Classic Cars,S18_3482,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Small
+10135,42,100,"5,433",Shipped,7,2003,Classic Cars,S18_3482,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10147,37,100,"4,405",Shipped,9,2003,Classic Cars,S18_3482,Collectables For Less Inc.,Brickhaven,USA,NA,Nelson,Allen,Medium
+10159,25,100,"3,638",Shipped,10,2003,Classic Cars,S18_3482,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10169,36,100,"4,445",Shipped,11,2003,Classic Cars,S18_3482,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Medium
+10181,22,100,"3,395",Shipped,11,2003,Classic Cars,S18_3482,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Medium
+10191,23,100,"3,415",Shipped,11,2003,Classic Cars,S18_3482,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Medium
+10203,32,100,"5,127",Shipped,12,2003,Classic Cars,S18_3482,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10211,28,100,"3,745",Shipped,1,2004,Classic Cars,S18_3482,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Medium
+10225,27,100,"4,564",Shipped,2,2004,Classic Cars,S18_3482,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10238,49,100,"6,554",Shipped,4,2004,Classic Cars,S18_3482,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Medium
+10252,41,100,"6,750",Shipped,5,2004,Classic Cars,S18_3482,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Medium
+10265,49,100,"8,427",Shipped,7,2004,Classic Cars,S18_3482,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Large
+10276,30,100,"3,925",Shipped,8,2004,Classic Cars,S18_3482,Online Mini Collectables,Brickhaven,USA,NA,Barajas,Miguel,Medium
+10287,40,100,"6,762",Shipped,8,2004,Classic Cars,S18_3482,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10300,23,100,"3,786",Shipped,10,2003,Classic Cars,S18_3482,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Medium
+10310,49,100,"6,266",Shipped,10,2004,Classic Cars,S18_3482,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Medium
+10320,25,100,"3,491",Shipped,11,2004,Classic Cars,S18_3482,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Berglund,Christina,Medium
+10330,37,100,"4,405",Shipped,11,2004,Classic Cars,S18_3482,Cruz & Sons Co.,Makati City,Philippines,Japan,Cruz,Arnold,Medium
+10342,55,100,"6,548",Shipped,11,2004,Classic Cars,S18_3482,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10355,23,100,"3,178",Shipped,12,2004,Classic Cars,S18_3482,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10363,24,100,"4,143",Shipped,1,2005,Classic Cars,S18_3482,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Medium
+10378,43,96,"4,149",Shipped,2,2005,Classic Cars,S18_3482,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10390,50,100,"7,397",Shipped,3,2005,Classic Cars,S18_3482,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Large
+10109,47,100,"6,242",Shipped,3,2003,Classic Cars,S18_3685,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Medium
+10123,34,100,"5,332",Shipped,5,2003,Classic Cars,S18_3685,Atelier graphique,Nantes,France,EMEA,Schmitt,Carine,Medium
+10137,31,100,"5,124",Shipped,7,2003,Classic Cars,S18_3685,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Medium
+10148,28,100,"3,639",Shipped,9,2003,Classic Cars,S18_3685,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Medium
+10161,36,100,"5,544",Shipped,10,2003,Classic Cars,S18_3685,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Medium
+10172,48,100,"5,493",Shipped,11,2003,Classic Cars,S18_3685,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Medium
+10181,39,100,"5,785",Shipped,11,2003,Classic Cars,S18_3685,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Medium
+10192,45,100,"5,341",Shipped,11,2003,Classic Cars,S18_3685,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Medium
+10204,35,100,"5,736",Shipped,12,2003,Classic Cars,S18_3685,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10212,45,100,"6,358",Shipped,1,2004,Classic Cars,S18_3685,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10226,46,100,"7,344",Shipped,2,2004,Classic Cars,S18_3685,Collectable Mini Designs Co.,San Diego,USA,NA,Thompson,Valarie,Large
+10240,37,100,"5,959",Shipped,4,2004,Classic Cars,S18_3685,Osaka Souveniers Co.,Osaka,Japan,Japan,Kentary,Mory,Medium
+10253,31,100,"4,029",Cancelled,6,2004,Classic Cars,S18_3685,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Medium
+10266,33,100,"5,035",Shipped,7,2004,Classic Cars,S18_3685,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Medium
+10278,31,100,"4,117",Shipped,8,2004,Classic Cars,S18_3685,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Medium
+10287,27,100,"4,311",Shipped,8,2004,Classic Cars,S18_3685,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10301,39,100,"6,447",Shipped,10,2003,Classic Cars,S18_3685,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Klaeboe,Jan,Medium
+10311,32,100,"3,617",Shipped,10,2004,Classic Cars,S18_3685,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10321,28,100,"4,233",Shipped,11,2004,Classic Cars,S18_3685,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Medium
+10331,26,68,"1,766",Shipped,11,2004,Classic Cars,S18_3685,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Small
+10343,44,85,"3,735",Shipped,11,2004,Classic Cars,S18_3685,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Medium
+10367,46,100,"4,808",Resolved,1,2005,Classic Cars,S18_3685,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Medium
+10379,32,71,"2,267",Shipped,2,2005,Classic Cars,S18_3685,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10406,65,100,"10,469",Disputed,4,2005,Classic Cars,S18_3685,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Large
+10419,43,100,"5,589",Shipped,5,2005,Classic Cars,S18_3685,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Medium
+10108,43,68,"2,914",Shipped,3,2003,Motorcycles,S18_3782,Cruz & Sons Co.,Makati City,Philippines,Japan,Cruz,Arnold,Small
+10122,35,50,"1,741",Shipped,5,2003,Motorcycles,S18_3782,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Small
+10135,45,50,"2,266",Shipped,7,2003,Motorcycles,S18_3782,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10146,47,67,"3,156",Shipped,9,2003,Motorcycles,S18_3782,Gift Ideas Corp.,Glendale,USA,NA,Lewis,Dan,Medium
+10159,21,65,"1,358",Shipped,10,2003,Motorcycles,S18_3782,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Small
+10169,38,68,"2,599",Shipped,11,2003,Motorcycles,S18_3782,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10180,21,50,"1,058",Shipped,11,2003,Motorcycles,S18_3782,Daedalus Designs Imports,Lille,France,EMEA,Rance,Martine,Small
+10191,43,73,"3,128",Shipped,11,2003,Motorcycles,S18_3782,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Medium
+10211,46,54,"2,488",Shipped,1,2004,Motorcycles,S18_3782,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Small
+10224,38,58,"2,221",Shipped,2,2004,Motorcycles,S18_3782,Daedalus Designs Imports,Lille,France,EMEA,Rance,Martine,Small
+10237,26,52,"1,358",Shipped,4,2004,Motorcycles,S18_3782,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Small
+10252,31,53,"1,638",Shipped,5,2004,Motorcycles,S18_3782,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Small
+10264,48,55,"2,626",Shipped,6,2004,Motorcycles,S18_3782,Gifts4AllAges.com,Boston,USA,NA,Yoshido,Juri,Small
+10276,33,50,"1,662",Shipped,8,2004,Motorcycles,S18_3782,Online Mini Collectables,Brickhaven,USA,NA,Barajas,Miguel,Small
+10286,38,57,"2,174",Shipped,8,2004,Motorcycles,S18_3782,"La Corne D'abondance, Co.",Paris,France,EMEA,Bertrand,Marie,Small
+10299,39,56,"2,182",Shipped,9,2004,Motorcycles,S18_3782,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Small
+10310,42,67,"2,820",Shipped,10,2004,Motorcycles,S18_3782,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Small
+10319,44,59,"2,599",Shipped,11,2004,Motorcycles,S18_3782,Microscale Inc.,NYC,USA,NA,Kuo,Kee,Small
+10330,29,70,"2,019",Shipped,11,2004,Motorcycles,S18_3782,Cruz & Sons Co.,Makati City,Philippines,Japan,Cruz,Arnold,Small
+10342,26,56,"1,455",Shipped,11,2004,Motorcycles,S18_3782,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Small
+10355,31,53,"1,658",Shipped,12,2004,Motorcycles,S18_3782,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10363,32,89,"2,852",Shipped,1,2005,Motorcycles,S18_3782,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Small
+10378,28,100,"4,610",Shipped,2,2005,Motorcycles,S18_3782,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10390,36,100,"5,080",Shipped,3,2005,Motorcycles,S18_3782,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10403,36,52,"1,880",Shipped,4,2005,Motorcycles,S18_3782,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Small
+10106,41,100,"4,775",Shipped,2,2003,Vintage Cars,S18_3856,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Medium
+10119,27,100,"2,687",Shipped,4,2003,Vintage Cars,S18_3856,Salzburg Collectables,Salzburg,Austria,EMEA,Pipps,Georg,Small
+10130,33,100,"3,424",Shipped,6,2003,Vintage Cars,S18_3856,Auto-Moto Classics Inc.,Brickhaven,USA,NA,Taylor,Leslie,Medium
+10143,34,100,"3,456",Shipped,8,2003,Vintage Cars,S18_3856,Mini Creations Ltd.,New Bedford,USA,NA,Tam,Wing C,Medium
+10155,29,100,"3,623",Shipped,10,2003,Vintage Cars,S18_3856,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Medium
+10167,34,100,"3,600",Cancelled,10,2003,Vintage Cars,S18_3856,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10178,48,100,"5,387",Shipped,11,2003,Vintage Cars,S18_3856,Alpha Cognac,Toulouse,France,EMEA,Roulet,Annette,Medium
+10186,46,100,"4,919",Shipped,11,2003,Vintage Cars,S18_3856,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Hardy,Thomas,Medium
+10197,22,100,"2,539",Shipped,11,2003,Vintage Cars,S18_3856,Enaco Distributors,Barcelona,Spain,EMEA,Saavedra,Eduardo,Small
+10209,20,100,"2,499",Shipped,1,2004,Vintage Cars,S18_3856,"Men 'R' US Retailers, Ltd.",Los Angeles,USA,NA,Chandler,Michael,Small
+10222,45,86,"3,859",Shipped,2,2004,Vintage Cars,S18_3856,Collectable Mini Designs Co.,San Diego,USA,NA,Thompson,Valarie,Medium
+10249,46,100,"5,601",Shipped,5,2004,Vintage Cars,S18_3856,Cambridge Collectables Co.,Cambridge,USA,NA,Tseng,Kyung,Medium
+10262,34,100,"4,103",Cancelled,6,2004,Vintage Cars,S18_3856,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10273,50,86,"4,288",Shipped,7,2004,Vintage Cars,S18_3856,Petit Auto,Bruxelles,Belgium,EMEA,Dewey,Catherine,Medium
+10283,46,100,"5,796",Shipped,8,2004,Vintage Cars,S18_3856,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Lincoln,Elizabeth,Medium
+10296,22,85,"1,863",Shipped,9,2004,Vintage Cars,S18_3856,"Bavarian Collectables Imports, Co.",Munich,Germany,EMEA,Donnermeyer,Michael,Small
+10307,48,87,"4,167",Shipped,10,2004,Vintage Cars,S18_3856,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Cervantes,Francisca,Medium
+10316,47,87,"4,080",Shipped,11,2004,Vintage Cars,S18_3856,giftsbymail.co.uk,Cowes,UK,EMEA,Bennett,Helen,Medium
+10328,34,100,"3,815",Shipped,11,2004,Vintage Cars,S18_3856,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Medium
+10338,45,100,"5,526",Shipped,11,2004,Vintage Cars,S18_3856,Royale Belge,Charleroi,Belgium,EMEA,Cartrain,Pascale,Medium
+10351,20,100,"3,375",Shipped,12,2004,Vintage Cars,S18_3856,"Stylish Desk Decors, Co.",London,UK,EMEA,Brown,Ann,Medium
+10373,50,60,"3,025",Shipped,1,2005,Vintage Cars,S18_3856,"Oulu Toy Supplies, Inc.",Oulu,Finland,EMEA,Koskitalo,Pirkko,Medium
+10386,22,58,"1,266",Resolved,3,2005,Vintage Cars,S18_3856,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10398,45,100,"4,812",Shipped,3,2005,Vintage Cars,S18_3856,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Medium
+10400,58,100,"7,307",Shipped,4,2005,Vintage Cars,S18_3856,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Large
+10415,51,100,"6,209",Disputed,5,2005,Vintage Cars,S18_3856,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Medium
+10104,38,100,"5,349",Shipped,1,2003,Classic Cars,S18_4027,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10117,22,100,"2,781",Shipped,4,2003,Classic Cars,S18_4027,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Small
+10127,25,100,"3,447",Shipped,6,2003,Classic Cars,S18_4027,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10142,24,100,"3,792",Shipped,8,2003,Classic Cars,S18_4027,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10152,35,100,"4,524",Shipped,9,2003,Classic Cars,S18_4027,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Calaghan,Tony,Medium
+10165,28,100,"3,338",Shipped,10,2003,Classic Cars,S18_4027,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10176,36,100,"5,532",Shipped,11,2003,Classic Cars,S18_4027,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Medium
+10185,39,100,"5,097",Shipped,11,2003,Classic Cars,S18_4027,Mini Creations Ltd.,New Bedford,USA,NA,Tam,Wing C,Medium
+10196,27,100,"4,537",Shipped,11,2003,Classic Cars,S18_4027,Super Scale Inc.,New Haven,USA,NA,Murphy,Leslie,Medium
+10207,40,100,"6,147",Shipped,12,2003,Classic Cars,S18_4027,Diecast Collectables,Boston,USA,NA,Franco,Valarie,Medium
+10220,50,100,"8,258",Shipped,2,2004,Classic Cars,S18_4027,"Clover Collections, Co.",Dublin,Ireland,EMEA,Cassidy,Dean,Large
+10230,42,100,"7,238",Shipped,3,2004,Classic Cars,S18_4027,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Large
+10247,48,100,"6,756",Shipped,5,2004,Classic Cars,S18_4027,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Medium
+10272,25,100,"3,734",Shipped,7,2004,Classic Cars,S18_4027,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Medium
+10282,31,100,"4,675",Shipped,8,2004,Classic Cars,S18_4027,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10292,44,100,"7,141",Shipped,9,2004,Classic Cars,S18_4027,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Large
+10306,23,100,"3,601",Shipped,10,2004,Classic Cars,S18_4027,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10314,29,100,"4,207",Shipped,10,2004,Classic Cars,S18_4027,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Medium
+10324,49,100,"5,380",Shipped,11,2004,Classic Cars,S18_4027,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Medium
+10337,36,100,"5,679",Shipped,11,2004,Classic Cars,S18_4027,Classic Legends Inc.,NYC,USA,NA,Hernandez,Maria,Medium
+10349,34,100,"4,395",Shipped,12,2004,Classic Cars,S18_4027,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10358,25,100,"2,528",Shipped,12,2004,Classic Cars,S18_4027,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10372,48,100,"7,032",Shipped,1,2005,Classic Cars,S18_4027,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Large
+10383,38,100,"5,341",Shipped,2,2005,Classic Cars,S18_4027,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10394,37,100,"6,377",Shipped,3,2005,Classic Cars,S18_4027,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10413,49,100,"6,897",Shipped,5,2005,Classic Cars,S18_4027,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Medium
+10100,22,87,"1,903",Shipped,1,2003,Vintage Cars,S18_4409,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Small
+10110,28,89,"2,500",Shipped,3,2003,Vintage Cars,S18_4409,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Small
+10124,36,86,"3,081",Shipped,5,2003,Vintage Cars,S18_4409,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Medium
+10148,34,100,"3,598",Shipped,9,2003,Vintage Cars,S18_4409,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Medium
+10162,39,100,"3,912",Shipped,10,2003,Vintage Cars,S18_4409,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10173,21,75,"1,585",Shipped,11,2003,Vintage Cars,S18_4409,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Small
+10182,36,100,"3,943",Shipped,11,2003,Vintage Cars,S18_4409,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10193,24,98,"2,341",Shipped,11,2003,Vintage Cars,S18_4409,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Small
+10204,29,86,"2,482",Shipped,12,2003,Vintage Cars,S18_4409,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Small
+10213,38,95,"3,602",Shipped,1,2004,Vintage Cars,S18_4409,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Hardy,Thomas,Medium
+10227,34,100,"3,567",Shipped,3,2004,Vintage Cars,S18_4409,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Medium
+10241,42,90,"3,788",Shipped,4,2004,Vintage Cars,S18_4409,Mini Caravy,Strasbourg,France,EMEA,Citeaux,Frederique,Medium
+10280,35,100,"3,704",Shipped,8,2004,Vintage Cars,S18_4409,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Medium
+10288,35,81,"2,835",Shipped,9,2004,Vintage Cars,S18_4409,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Small
+10302,38,89,"3,392",Shipped,10,2003,Vintage Cars,S18_4409,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Medium
+10311,41,82,"3,358",Shipped,10,2004,Vintage Cars,S18_4409,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10332,50,100,"7,310",Shipped,11,2004,Vintage Cars,S18_4409,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Large
+10344,21,100,"2,203",Shipped,11,2004,Vintage Cars,S18_4409,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Small
+10367,43,63,"2,697",Resolved,1,2005,Vintage Cars,S18_4409,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Small
+10380,32,100,"3,377",Shipped,2,2005,Vintage Cars,S18_4409,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10407,6,90,541,On Hold,4,2005,Vintage Cars,S18_4409,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Small
+10420,66,93,"6,135",In Process,5,2005,Vintage Cars,S18_4409,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Medium
+10105,41,83,"3,383",Shipped,2,2003,Vintage Cars,S18_4522,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Medium
+10117,23,97,"2,241",Shipped,4,2003,Vintage Cars,S18_4522,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Small
+10128,43,92,"3,963",Shipped,6,2003,Vintage Cars,S18_4522,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10142,24,70,"1,685",Shipped,8,2003,Vintage Cars,S18_4522,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10153,22,83,"1,834",Shipped,9,2003,Vintage Cars,S18_4522,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10166,26,74,"1,917",Shipped,10,2003,Vintage Cars,S18_4522,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Small
+10177,35,75,"2,611",Shipped,11,2003,Vintage Cars,S18_4522,CAF Imports,Madrid,Spain,EMEA,Fernandez,Jesus,Small
+10185,47,77,"3,630",Shipped,11,2003,Vintage Cars,S18_4522,Mini Creations Ltd.,New Bedford,USA,NA,Tam,Wing C,Medium
+10197,50,100,"5,091",Shipped,11,2003,Vintage Cars,S18_4522,Enaco Distributors,Barcelona,Spain,EMEA,Saavedra,Eduardo,Medium
+10208,45,88,"3,950",Shipped,1,2004,Vintage Cars,S18_4522,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Medium
+10221,39,90,"3,492",Shipped,2,2004,Vintage Cars,S18_4522,Petit Auto,Bruxelles,Belgium,EMEA,Dewey,Catherine,Medium
+10232,23,90,"2,059",Shipped,3,2004,Vintage Cars,S18_4522,giftsbymail.co.uk,Cowes,UK,EMEA,Bennett,Helen,Small
+10248,42,75,"3,170",Cancelled,5,2004,Vintage Cars,S18_4522,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10261,20,90,"1,791",Shipped,6,2004,Vintage Cars,S18_4522,Quebec Home Shopping Network,Montreal,Canada,NA,Fresnisre,Jean,Small
+10273,33,71,"2,346",Shipped,7,2004,Vintage Cars,S18_4522,Petit Auto,Bruxelles,Belgium,EMEA,Dewey,Catherine,Small
+10283,34,100,"3,581",Shipped,8,2004,Vintage Cars,S18_4522,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Lincoln,Elizabeth,Medium
+10293,49,100,"4,946",Shipped,9,2004,Vintage Cars,S18_4522,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Medium
+10306,39,90,"3,526",Shipped,10,2004,Vintage Cars,S18_4522,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10315,36,100,"3,602",Shipped,10,2004,Vintage Cars,S18_4522,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Medium
+10326,50,86,"4,301",Shipped,11,2004,Vintage Cars,S18_4522,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Berglund,Christina,Medium
+10337,29,100,"4,498",Shipped,11,2004,Vintage Cars,S18_4522,Classic Legends Inc.,NYC,USA,NA,Hernandez,Maria,Medium
+10350,30,100,"3,023",Shipped,12,2004,Vintage Cars,S18_4522,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10372,41,87,"3,562",Shipped,1,2005,Vintage Cars,S18_4522,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Medium
+10383,28,59,"1,640",Shipped,2,2005,Vintage Cars,S18_4522,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10396,45,100,"4,739",Shipped,3,2005,Vintage Cars,S18_4522,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10414,16,75,"1,208",On Hold,5,2005,Vintage Cars,S18_4522,Gifts4AllAges.com,Boston,USA,NA,Yoshido,Juri,Small
+10103,36,100,"4,228",Shipped,1,2003,Trucks and Buses,S18_4600,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Medium
+10114,41,100,"4,815",Shipped,4,2003,Trucks and Buses,S18_4600,"La Corne D'abondance, Co.",Paris,France,EMEA,Bertrand,Marie,Medium
+10126,50,100,"7,083",Shipped,5,2003,Trucks and Buses,S18_4600,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Large
+10140,40,100,"4,601",Shipped,7,2003,Trucks and Buses,S18_4600,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Medium
+10150,49,100,"6,467",Shipped,9,2003,Trucks and Buses,S18_4600,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10164,45,100,"5,013",Resolved,10,2003,Trucks and Buses,S18_4600,Mini Auto Werke,Graz,Austria,EMEA,Mendel,Roland,Medium
+10175,47,100,"5,122",Shipped,11,2003,Trucks and Buses,S18_4600,"Stylish Desk Decors, Co.",London,UK,EMEA,Brown,Ann,Medium
+10183,21,100,"2,441",Shipped,11,2003,Trucks and Buses,S18_4600,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Cervantes,Francisca,Small
+10194,32,100,"4,262",Shipped,11,2003,Trucks and Buses,S18_4600,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Medium
+10207,47,100,"6,658",Shipped,12,2003,Trucks and Buses,S18_4600,Diecast Collectables,Boston,USA,NA,Franco,Valarie,Medium
+10217,38,100,"4,509",Shipped,2,2004,Trucks and Buses,S18_4600,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Medium
+10229,41,100,"4,716",Shipped,3,2004,Trucks and Buses,S18_4600,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10245,21,100,"2,390",Shipped,5,2004,Trucks and Buses,S18_4600,Super Scale Inc.,New Haven,USA,NA,Murphy,Leslie,Small
+10259,41,100,"4,667",Shipped,6,2004,Trucks and Buses,S18_4600,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Medium
+10270,38,100,"5,383",Shipped,7,2004,Trucks and Buses,S18_4600,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Medium
+10281,25,99,"2,482",Shipped,8,2004,Trucks and Buses,S18_4600,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Small
+10291,48,100,"5,289",Shipped,9,2004,Trucks and Buses,S18_4600,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10305,22,99,"2,184",Shipped,10,2004,Trucks and Buses,S18_4600,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Small
+10313,28,100,"2,882",Shipped,10,2004,Trucks and Buses,S18_4600,Canadian Gift Exchange Network,Vancouver,Canada,NA,Tannamuri,Yoshi,Small
+10323,47,100,"6,203",Shipped,11,2004,Trucks and Buses,S18_4600,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Medium
+10334,49,100,"6,763",On Hold,11,2004,Trucks and Buses,S18_4600,"Volvo Model Replicas, Co",Lule,Sweden,EMEA,Berglund,Christina,Medium
+10347,45,100,"5,885",Shipped,11,2004,Trucks and Buses,S18_4600,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10357,28,100,"3,560",Shipped,12,2004,Trucks and Buses,S18_4600,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10370,29,58,"1,668",Shipped,1,2005,Trucks and Buses,S18_4600,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10382,39,100,"4,891",Shipped,2,2005,Trucks and Buses,S18_4600,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10411,46,100,"5,236",Shipped,5,2005,Trucks and Buses,S18_4600,Quebec Home Shopping Network,Montreal,Canada,NA,Fresnisre,Jean,Medium
+10425,38,100,"4,325",In Process,5,2005,Trucks and Buses,S18_4600,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Medium
+10103,41,47,"1,939",Shipped,1,2003,Vintage Cars,S18_4668,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Small
+10113,50,50,"2,491",Shipped,3,2003,Vintage Cars,S18_4668,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10126,43,54,"2,315",Shipped,5,2003,Vintage Cars,S18_4668,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Small
+10140,29,43,"1,255",Shipped,7,2003,Vintage Cars,S18_4668,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Small
+10150,30,43,"1,283",Shipped,9,2003,Vintage Cars,S18_4668,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Small
+10164,25,54,"1,346",Resolved,10,2003,Vintage Cars,S18_4668,Mini Auto Werke,Graz,Austria,EMEA,Mendel,Roland,Small
+10174,49,45,"2,194",Shipped,11,2003,Vintage Cars,S18_4668,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Calaghan,Tony,Small
+10183,40,49,"1,972",Shipped,11,2003,Vintage Cars,S18_4668,"Classic Gift Ideas, Inc",Philadelphia,USA,NA,Cervantes,Francisca,Small
+10194,41,45,"1,836",Shipped,11,2003,Vintage Cars,S18_4668,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Small
+10206,21,53,"1,120",Shipped,12,2003,Vintage Cars,S18_4668,Canadian Gift Exchange Network,Vancouver,Canada,NA,Tannamuri,Yoshi,Small
+10215,46,45,"2,083",Shipped,1,2004,Vintage Cars,S18_4668,West Coast Collectables Co.,Burbank,USA,NA,Thompson,Steve,Small
+10229,39,40,"1,570",Shipped,3,2004,Vintage Cars,S18_4668,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10245,45,60,"2,694",Shipped,5,2004,Vintage Cars,S18_4668,Super Scale Inc.,New Haven,USA,NA,Murphy,Leslie,Small
+10258,21,60,"1,257",Shipped,6,2004,Vintage Cars,S18_4668,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Small
+10270,44,58,"2,568",Shipped,7,2004,Vintage Cars,S18_4668,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Small
+10281,44,60,"2,634",Shipped,8,2004,Vintage Cars,S18_4668,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Small
+10291,29,52,"1,503",Shipped,9,2004,Vintage Cars,S18_4668,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Small
+10304,34,49,"1,676",Shipped,10,2004,Vintage Cars,S18_4668,Auto Assoc. & Cie.,Versailles,France,EMEA,Tonini,Daniel,Small
+10312,39,57,"2,217",Shipped,10,2004,Vintage Cars,S18_4668,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10324,38,100,"6,832",Shipped,11,2004,Vintage Cars,S18_4668,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Medium
+10333,24,80,"1,917",Shipped,11,2004,Vintage Cars,S18_4668,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Small
+10348,29,100,"7,111",Shipped,11,2004,Vintage Cars,S18_4668,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Large
+10358,30,100,"5,303",Shipped,12,2004,Vintage Cars,S18_4668,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10370,20,100,"2,730",Shipped,1,2005,Vintage Cars,S18_4668,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10382,39,100,"7,827",Shipped,2,2005,Vintage Cars,S18_4668,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Large
+10411,35,60,"2,095",Shipped,5,2005,Vintage Cars,S18_4668,Quebec Home Shopping Network,Montreal,Canada,NA,Fresnisre,Jean,Small
+10424,26,60,"1,557",In Process,5,2005,Vintage Cars,S18_4668,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10108,44,100,"5,565",Shipped,3,2003,Classic Cars,S18_4721,Cruz & Sons Co.,Makati City,Philippines,Japan,Cruz,Arnold,Medium
+10122,28,100,"3,583",Shipped,5,2003,Classic Cars,S18_4721,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Medium
+10135,31,100,"4,705",Shipped,7,2003,Classic Cars,S18_4721,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10146,29,100,"4,445",Shipped,9,2003,Classic Cars,S18_4721,Gift Ideas Corp.,Glendale,USA,NA,Lewis,Dan,Medium
+10159,32,100,"4,619",Shipped,10,2003,Classic Cars,S18_4721,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10169,33,100,"4,910",Shipped,11,2003,Classic Cars,S18_4721,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Medium
+10180,44,100,"5,565",Shipped,11,2003,Classic Cars,S18_4721,Daedalus Designs Imports,Lille,France,EMEA,Rance,Martine,Medium
+10191,32,100,"4,238",Shipped,11,2003,Classic Cars,S18_4721,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Medium
+10211,41,100,"5,674",Shipped,1,2004,Classic Cars,S18_4721,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Medium
+10225,35,100,"5,260",Shipped,2,2004,Classic Cars,S18_4721,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10238,44,100,"6,351",Shipped,4,2004,Classic Cars,S18_4721,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Medium
+10252,26,100,"3,559",Shipped,5,2004,Classic Cars,S18_4721,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Medium
+10264,20,100,"2,411",Shipped,6,2004,Classic Cars,S18_4721,Gifts4AllAges.com,Boston,USA,NA,Yoshido,Juri,Small
+10276,48,100,"5,714",Shipped,8,2004,Classic Cars,S18_4721,Online Mini Collectables,Brickhaven,USA,NA,Barajas,Miguel,Medium
+10287,34,100,"4,300",Shipped,8,2004,Classic Cars,S18_4721,"Vida Sport, Ltd",Gensve,Switzerland,EMEA,Holz,Michael,Medium
+10299,49,100,"7,947",Shipped,9,2004,Classic Cars,S18_4721,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Large
+10310,40,100,"5,357",Shipped,10,2004,Classic Cars,S18_4721,"Toms Spezialitten, Ltd",Koln,Germany,EMEA,Pfalzheim,Henriette,Medium
+10319,45,100,"7,901",Shipped,11,2004,Classic Cars,S18_4721,Microscale Inc.,NYC,USA,NA,Kuo,Kee,Large
+10330,50,100,"6,101",Shipped,11,2004,Classic Cars,S18_4721,Cruz & Sons Co.,Makati City,Philippines,Japan,Cruz,Arnold,Medium
+10342,38,100,"6,276",Shipped,11,2004,Classic Cars,S18_4721,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10355,25,100,"4,204",Shipped,12,2004,Classic Cars,S18_4721,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10363,28,58,"1,629",Shipped,1,2005,Classic Cars,S18_4721,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Small
+10378,49,67,"3,290",Shipped,2,2005,Classic Cars,S18_4721,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10390,49,100,"6,863",Shipped,3,2005,Classic Cars,S18_4721,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10110,42,61,"2,574",Shipped,3,2003,Classic Cars,S18_4933,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Small
+10124,23,58,"1,328",Shipped,5,2003,Classic Cars,S18_4933,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Small
+10148,29,81,"2,356",Shipped,9,2003,Classic Cars,S18_4933,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10161,25,81,"2,014",Shipped,10,2003,Classic Cars,S18_4933,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Small
+10173,39,72,"2,807",Shipped,11,2003,Classic Cars,S18_4933,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Small
+10182,44,70,"3,073",Shipped,11,2003,Classic Cars,S18_4933,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10193,25,76,"1,907",Shipped,11,2003,Classic Cars,S18_4933,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Small
+10204,45,76,"3,432",Shipped,12,2003,Classic Cars,S18_4933,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10213,25,83,"2,085",Shipped,1,2004,Classic Cars,S18_4933,"Double Decker Gift Stores, Ltd",London,UK,EMEA,Hardy,Thomas,Small
+10227,37,58,"2,136",Shipped,3,2004,Classic Cars,S18_4933,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Small
+10241,30,67,"2,010",Shipped,4,2004,Classic Cars,S18_4933,Mini Caravy,Strasbourg,France,EMEA,Citeaux,Frederique,Small
+10267,36,76,"2,720",Shipped,7,2004,Classic Cars,S18_4933,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Small
+10279,26,61,"1,575",Shipped,8,2004,Classic Cars,S18_4933,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10288,23,73,"1,688",Shipped,9,2004,Classic Cars,S18_4933,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Small
+10302,23,73,"1,672",Shipped,10,2003,Classic Cars,S18_4933,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Small
+10311,25,67,"1,675",Shipped,10,2004,Classic Cars,S18_4933,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10332,21,100,"3,473",Shipped,11,2004,Classic Cars,S18_4933,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10344,26,63,"1,649",Shipped,11,2004,Classic Cars,S18_4933,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Small
+10367,44,85,"3,751",Resolved,1,2005,Classic Cars,S18_4933,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Medium
+10380,24,100,"4,536",Shipped,2,2005,Classic Cars,S18_4933,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10407,66,67,"4,421",On Hold,4,2005,Classic Cars,S18_4933,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Medium
+10420,36,58,"2,078",In Process,5,2005,Classic Cars,S18_4933,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Small
+10110,36,85,"3,069",Shipped,3,2003,Classic Cars,S24_1046,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10124,22,78,"1,714",Shipped,5,2003,Classic Cars,S24_1046,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Small
+10148,25,60,"1,507",Shipped,9,2003,Classic Cars,S24_1046,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10161,37,73,"2,692",Shipped,10,2003,Classic Cars,S24_1046,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Small
+10172,32,76,"2,422",Shipped,11,2003,Classic Cars,S24_1046,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Small
+10182,47,74,"3,488",Shipped,11,2003,Classic Cars,S24_1046,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10192,37,70,"2,583",Shipped,11,2003,Classic Cars,S24_1046,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Small
+10204,20,62,"1,249",Shipped,12,2003,Classic Cars,S24_1046,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Small
+10212,41,82,"3,375",Shipped,1,2004,Classic Cars,S24_1046,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10226,21,60,"1,265",Shipped,2,2004,Classic Cars,S24_1046,Collectable Mini Designs Co.,San Diego,USA,NA,Thompson,Valarie,Small
+10241,22,76,"1,681",Shipped,4,2004,Classic Cars,S24_1046,Mini Caravy,Strasbourg,France,EMEA,Citeaux,Frederique,Small
+10267,40,80,"3,204",Shipped,7,2004,Classic Cars,S24_1046,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Medium
+10279,32,75,"2,399",Shipped,8,2004,Classic Cars,S24_1046,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10288,36,66,"2,381",Shipped,9,2004,Classic Cars,S24_1046,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Small
+10301,27,72,"1,945",Shipped,10,2003,Classic Cars,S24_1046,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Klaeboe,Jan,Small
+10311,26,87,"2,274",Shipped,10,2004,Classic Cars,S24_1046,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10321,30,71,"2,117",Shipped,11,2004,Classic Cars,S24_1046,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Small
+10332,23,57,"1,307",Shipped,11,2004,Classic Cars,S24_1046,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Small
+10344,29,60,"1,726",Shipped,11,2004,Classic Cars,S24_1046,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Small
+10367,21,60,"1,268",Resolved,1,2005,Classic Cars,S24_1046,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Small
+10380,34,100,"3,442",Shipped,2,2005,Classic Cars,S24_1046,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10407,26,76,"1,987",On Hold,4,2005,Classic Cars,S24_1046,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Small
+10420,60,65,"3,880",In Process,5,2005,Classic Cars,S24_1046,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Medium
+10104,35,55,"1,942",Shipped,1,2003,Classic Cars,S24_1444,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10115,47,69,"3,260",Shipped,4,2003,Classic Cars,S24_1444,Classic Legends Inc.,NYC,USA,NA,Hernandez,Maria,Medium
+10127,20,61,"1,214",Shipped,6,2003,Classic Cars,S24_1444,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Small
+10141,20,54,"1,087",Shipped,8,2003,Classic Cars,S24_1444,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Small
+10152,25,65,"1,633",Shipped,9,2003,Classic Cars,S24_1444,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Calaghan,Tony,Small
+10165,25,69,"1,734",Shipped,10,2003,Classic Cars,S24_1444,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Small
+10176,27,69,"1,857",Shipped,11,2003,Classic Cars,S24_1444,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Small
+10184,31,60,"1,863",Shipped,11,2003,Classic Cars,S24_1444,"Iberia Gift Imports, Corp.",Sevilla,Spain,EMEA,Roel,Jose Pedro,Small
+10195,44,66,"2,925",Shipped,11,2003,Classic Cars,S24_1444,Mini Classics,White Plains,USA,NA,Frick,Steve,Small
+10207,49,47,"2,294",Shipped,12,2003,Classic Cars,S24_1444,Diecast Collectables,Boston,USA,NA,Franco,Valarie,Small
+10220,26,56,"1,458",Shipped,2,2004,Classic Cars,S24_1444,"Clover Collections, Co.",Dublin,Ireland,EMEA,Cassidy,Dean,Small
+10230,36,54,"1,956",Shipped,3,2004,Classic Cars,S24_1444,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Small
+10246,44,53,"2,314",Shipped,5,2004,Classic Cars,S24_1444,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10259,28,47,"1,311",Shipped,6,2004,Classic Cars,S24_1444,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Small
+10271,45,65,"2,913",Shipped,7,2004,Classic Cars,S24_1444,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10282,29,47,"1,358",Shipped,8,2004,Classic Cars,S24_1444,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10292,40,54,"2,150",Shipped,9,2004,Classic Cars,S24_1444,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Small
+10305,45,62,"2,783",Shipped,10,2004,Classic Cars,S24_1444,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Small
+10314,44,53,"2,340",Shipped,10,2004,Classic Cars,S24_1444,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Small
+10324,25,69,"1,729",Shipped,11,2004,Classic Cars,S24_1444,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Small
+10336,45,100,"5,972",Shipped,11,2004,Classic Cars,S24_1444,"La Corne D'abondance, Co.",Paris,France,EMEA,Bertrand,Marie,Medium
+10349,48,47,"2,275",Shipped,12,2004,Classic Cars,S24_1444,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Small
+10358,44,61,"2,673",Shipped,12,2004,Classic Cars,S24_1444,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10371,25,97,"2,432",Shipped,1,2005,Classic Cars,S24_1444,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10383,22,92,"2,019",Shipped,2,2005,Classic Cars,S24_1444,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10394,31,50,"1,559",Shipped,3,2005,Classic Cars,S24_1444,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10412,21,53,"1,105",Shipped,5,2005,Classic Cars,S24_1444,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10425,55,47,"2,575",In Process,5,2005,Classic Cars,S24_1444,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Small
+10107,25,100,"2,846",Shipped,2,2003,Motorcycles,S24_1578,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Small
+10120,35,98,"3,432",Shipped,4,2003,Motorcycles,S24_1578,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10134,35,94,"3,274",Shipped,7,2003,Motorcycles,S24_1578,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Medium
+10145,43,96,"4,119",Shipped,8,2003,Motorcycles,S24_1578,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Medium
+10159,44,100,"5,356",Shipped,10,2003,Motorcycles,S24_1578,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Medium
+10168,50,100,"5,748",Shipped,10,2003,Motorcycles,S24_1578,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Medium
+10180,48,100,"5,355",Shipped,11,2003,Motorcycles,S24_1578,Daedalus Designs Imports,Lille,France,EMEA,Rance,Martine,Medium
+10188,25,100,"2,536",Shipped,11,2003,Motorcycles,S24_1578,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Small
+10201,39,100,"4,351",Shipped,12,2003,Motorcycles,S24_1578,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Medium
+10211,25,90,"2,254",Shipped,1,2004,Motorcycles,S24_1578,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Small
+10223,32,91,"2,921",Shipped,2,2004,Motorcycles,S24_1578,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Small
+10237,20,100,"2,299",Shipped,4,2004,Motorcycles,S24_1578,Vitachrome Inc.,NYC,USA,NA,Frick,Michael,Small
+10251,26,100,"2,637",Shipped,5,2004,Motorcycles,S24_1578,Tekni Collectables Inc.,Newark,USA,NA,Brown,William,Small
+10263,42,100,"4,308",Shipped,6,2004,Motorcycles,S24_1578,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Medium
+10275,21,100,"2,154",Shipped,7,2004,Motorcycles,S24_1578,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Small
+10285,34,100,"3,717",Shipped,8,2004,Motorcycles,S24_1578,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Medium
+10299,47,100,"5,456",Shipped,9,2004,Motorcycles,S24_1578,"Toys of Finland, Co.",Helsinki,Finland,EMEA,Karttunen,Matti,Medium
+10309,21,100,"2,651",Shipped,10,2004,Motorcycles,S24_1578,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Small
+10318,48,100,"6,437",Shipped,11,2004,Motorcycles,S24_1578,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Medium
+10329,30,88,"2,633",Shipped,11,2004,Motorcycles,S24_1578,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Small
+10339,27,84,"2,279",Shipped,11,2004,Motorcycles,S24_1578,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Small
+10362,50,97,"4,846",Shipped,1,2005,Motorcycles,S24_1578,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Medium
+10374,38,100,"4,197",Shipped,2,2005,Motorcycles,S24_1578,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Calaghan,Tony,Medium
+10389,45,100,"4,598",Shipped,3,2005,Motorcycles,S24_1578,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10403,46,100,"5,288",Shipped,4,2005,Motorcycles,S24_1578,"UK Collectables, Ltd.",Liverpool,UK,EMEA,Devon,Elizabeth,Medium
+10417,35,100,"3,550",Disputed,5,2005,Motorcycles,S24_1578,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10110,29,59,"1,722",Shipped,3,2003,Classic Cars,S24_1628,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Small
+10123,50,60,"2,994",Shipped,5,2003,Classic Cars,S24_1628,Atelier graphique,Nantes,France,EMEA,Schmitt,Carine,Small
+10137,26,50,"1,295",Shipped,7,2003,Classic Cars,S24_1628,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Small
+10148,47,57,"2,672",Shipped,9,2003,Classic Cars,S24_1628,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Small
+10161,23,53,"1,227",Shipped,10,2003,Classic Cars,S24_1628,Heintze Collectables,Aaarhus,Denmark,EMEA,Ibsen,Palle,Small
+10172,34,43,"1,454",Shipped,11,2003,Classic Cars,S24_1628,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Small
+10181,34,54,"1,830",Shipped,11,2003,Classic Cars,S24_1628,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Small
+10192,47,54,"2,530",Shipped,11,2003,Classic Cars,S24_1628,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Small
+10204,45,50,"2,241",Shipped,12,2003,Classic Cars,S24_1628,Muscle Machine Inc,NYC,USA,NA,Young,Jeff,Small
+10212,45,53,"2,400",Shipped,1,2004,Classic Cars,S24_1628,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10226,36,43,"1,558",Shipped,2,2004,Classic Cars,S24_1628,Collectable Mini Designs Co.,San Diego,USA,NA,Thompson,Valarie,Small
+10241,21,40,845,Shipped,4,2004,Classic Cars,S24_1628,Mini Caravy,Strasbourg,France,EMEA,Citeaux,Frederique,Small
+10266,28,48,"1,352",Shipped,7,2004,Classic Cars,S24_1628,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Small
+10278,35,45,"1,585",Shipped,8,2004,Classic Cars,S24_1628,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Small
+10288,50,52,"2,616",Shipped,9,2004,Classic Cars,S24_1628,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Small
+10301,22,51,"1,129",Shipped,10,2003,Classic Cars,S24_1628,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Klaeboe,Jan,Small
+10311,45,49,"2,219",Shipped,10,2004,Classic Cars,S24_1628,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10321,48,42,"2,028",Shipped,11,2004,Classic Cars,S24_1628,FunGiftIdeas.com,New Bedford,USA,NA,Benitez,Violeta,Small
+10332,20,88,"1,759",Shipped,11,2004,Classic Cars,S24_1628,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Small
+10343,27,36,978,Shipped,11,2004,Classic Cars,S24_1628,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Small
+10367,38,39,"1,463",Resolved,1,2005,Classic Cars,S24_1628,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Small
+10379,32,100,"3,971",Shipped,2,2005,Classic Cars,S24_1628,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10407,64,40,"2,576",On Hold,4,2005,Classic Cars,S24_1628,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Small
+10420,37,60,"2,234",In Process,5,2005,Classic Cars,S24_1628,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Small
+10106,28,89,"2,482",Shipped,2,2003,Planes,S24_1785,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Small
+10120,39,100,"4,652",Shipped,4,2003,Planes,S24_1785,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10133,41,94,"3,858",Shipped,6,2003,Planes,S24_1785,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10145,40,88,"3,502",Shipped,8,2003,Planes,S24_1785,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Medium
+10168,49,100,"6,434",Shipped,10,2003,Planes,S24_1785,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Medium
+10210,27,98,"2,659",Shipped,1,2004,Planes,S24_1785,Osaka Souveniers Co.,Osaka,Japan,Japan,Kentary,Mory,Small
+10223,34,100,"3,609",Shipped,2,2004,Planes,S24_1785,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Medium
+10235,23,96,"2,215",Shipped,4,2004,Planes,S24_1785,"Royal Canadian Collectables, Ltd.",Tsawassen,Canada,NA,Lincoln,Elizabeth,Small
+10250,31,89,"2,748",Shipped,5,2004,Planes,S24_1785,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Small
+10262,34,97,"3,311",Cancelled,6,2004,Planes,S24_1785,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10275,25,95,"2,380",Shipped,7,2004,Planes,S24_1785,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Small
+10284,22,100,"2,311",Shipped,8,2004,Planes,S24_1785,"Norway Gifts By Mail, Co.",Oslo,Norway,EMEA,Klaeboe,Jan,Small
+10297,32,100,"4,062",Shipped,9,2004,Planes,S24_1785,"Clover Collections, Co.",Dublin,Ireland,EMEA,Cassidy,Dean,Medium
+10308,31,100,"3,494",Shipped,10,2004,Planes,S24_1785,Mini Classics,White Plains,USA,NA,Frick,Steve,Medium
+10316,25,100,"2,872",Shipped,11,2004,Planes,S24_1785,giftsbymail.co.uk,Cowes,UK,EMEA,Bennett,Helen,Small
+10328,47,88,"4,114",Shipped,11,2004,Planes,S24_1785,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Medium
+10339,21,51,"1,064",Shipped,11,2004,Planes,S24_1785,"Tokyo Collectables, Ltd",Minato-ku,Japan,Japan,Shimamura,Akiko,Small
+10353,28,72,"2,008",Shipped,12,2004,Planes,S24_1785,Gift Ideas Corp.,Glendale,USA,NA,Lewis,Dan,Small
+10374,46,94,"4,329",Shipped,2,2005,Planes,S24_1785,"Australian Gift Network, Co",South Brisbane,Australia,APAC,Calaghan,Tony,Medium
+10386,33,42,"1,376",Resolved,3,2005,Planes,S24_1785,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10398,43,100,"5,552",Shipped,3,2005,Planes,S24_1785,Reims Collectables,Reims,France,EMEA,Henriot,Paul,Medium
+10401,38,96,"3,659",On Hold,4,2005,Planes,S24_1785,Tekni Collectables Inc.,Newark,USA,NA,Brown,William,Medium
+10416,47,89,"4,166",Shipped,5,2005,Planes,S24_1785,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Medium
+10101,45,31,"1,404",Shipped,1,2003,Vintage Cars,S24_1937,"Blauer See Auto, Co.",Frankfurt,Germany,EMEA,Keitel,Roland,Small
+10110,20,36,710,Shipped,3,2003,Vintage Cars,S24_1937,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Small
+10124,45,38,"1,703",Shipped,5,2003,Vintage Cars,S24_1937,Signal Gift Stores,Las Vegas,USA,NA,King,Sue,Small
+10149,36,33,"1,195",Shipped,9,2003,Vintage Cars,S24_1937,Signal Collectibles Ltd.,Brisbane,USA,NA,Taylor,Sue,Small
+10162,37,27,"1,007",Shipped,10,2003,Vintage Cars,S24_1937,Corporate Gift Ideas Co.,San Francisco,USA,NA,Brown,Julie,Small
+10173,31,32,977,Shipped,11,2003,Vintage Cars,S24_1937,Rovelli Gifts,Bergamo,Italy,EMEA,Rovelli,Giovanni,Small
+10182,39,37,"1,437",Shipped,11,2003,Vintage Cars,S24_1937,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10193,26,29,759,Shipped,11,2003,Vintage Cars,S24_1937,"Australian Collectables, Ltd",Glen Waverly,Australia,APAC,Connery,Sean,Small
+10205,32,37,"1,189",Shipped,12,2003,Vintage Cars,S24_1937,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10214,20,34,684,Shipped,1,2004,Vintage Cars,S24_1937,"Corrida Auto Replicas, Ltd",Madrid,Spain,EMEA,Sommer,Mart¡n,Small
+10227,42,29,"1,227",Shipped,3,2004,Vintage Cars,S24_1937,"Saveley & Henriot, Co.",Lyon,France,EMEA,Saveley,Mary,Small
+10243,33,30,975,Shipped,4,2004,Vintage Cars,S24_1937,Diecast Collectables,Boston,USA,NA,Franco,Valarie,Small
+10280,20,29,578,Shipped,8,2004,Vintage Cars,S24_1937,Amica Models & Co.,Torino,Italy,EMEA,Accorti,Paolo,Small
+10288,29,38,"1,107",Shipped,9,2004,Vintage Cars,S24_1937,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Small
+10304,23,30,695,Shipped,10,2004,Vintage Cars,S24_1937,Auto Assoc. & Cie.,Versailles,France,EMEA,Tonini,Daniel,Small
+10312,39,30,"1,152",Shipped,10,2004,Vintage Cars,S24_1937,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Small
+10322,20,100,"2,624",Shipped,11,2004,Vintage Cars,S24_1937,Online Diecast Creations Co.,Nashua,USA,NA,Young,Valarie,Small
+10332,45,82,"3,686",Shipped,11,2004,Vintage Cars,S24_1937,"AV Stores, Co.",Manchester,UK,EMEA,Ashworth,Victoria,Medium
+10344,20,35,704,Shipped,11,2004,Vintage Cars,S24_1937,Marseille Mini Autos,Marseille,France,EMEA,Lebihan,Laurence,Small
+10356,48,100,"9,720",Shipped,12,2004,Vintage Cars,S24_1937,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Large
+10367,23,36,835,Resolved,1,2005,Vintage Cars,S24_1937,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Small
+10380,32,71,"2,258",Shipped,2,2005,Vintage Cars,S24_1937,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Small
+10391,33,100,"8,345",Shipped,3,2005,Vintage Cars,S24_1937,"Anna's Decorations, Ltd",North Sydney,Australia,APAC,O'Hara,Anna,Large
+10409,61,30,"1,802",Shipped,4,2005,Vintage Cars,S24_1937,Handji Gifts& Co,Singapore,Singapore,APAC,Victorino,Wendy,Small
+10420,45,27,"1,210",In Process,5,2005,Vintage Cars,S24_1937,Souveniers And Things Co.,Chatswood,Australia,APAC,Huxley,Adrian,Small
+10107,38,83,"3,155",Shipped,2,2003,Motorcycles,S24_2000,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10120,34,84,"2,849",Shipped,4,2003,Motorcycles,S24_2000,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Small
+10134,43,83,"3,570",Shipped,7,2003,Motorcycles,S24_2000,Lyon Souveniers,Paris,France,EMEA,Da Cunha,Daniel,Medium
+10145,47,83,"3,902",Shipped,8,2003,Motorcycles,S24_2000,Toys4GrownUps.com,Pasadena,USA,NA,Young,Julie,Medium
+10158,22,67,"1,475",Shipped,10,2003,Motorcycles,S24_2000,Baane Mini Imports,Stavern,Norway,EMEA,Bergulfsen,Jonas,Small
+10168,29,75,"2,187",Shipped,10,2003,Motorcycles,S24_2000,Technics Stores Inc.,Burlingame,USA,NA,Hirano,Juri,Small
+10180,28,69,"1,919",Shipped,11,2003,Motorcycles,S24_2000,Daedalus Designs Imports,Lille,France,EMEA,Rance,Martine,Small
+10188,40,91,"3,656",Shipped,11,2003,Motorcycles,S24_2000,Herkku Gifts,Bergen,Norway,EMEA,Oeztan,Veysel,Medium
+10201,25,74,"1,847",Shipped,12,2003,Motorcycles,S24_2000,Mini Wheels Co.,San Francisco,USA,NA,Murphy,Julie,Small
+10210,30,62,"1,851",Shipped,1,2004,Motorcycles,S24_2000,Osaka Souveniers Co.,Osaka,Japan,Japan,Kentary,Mory,Small
+10223,38,69,"2,634",Shipped,2,2004,Motorcycles,S24_2000,"Australian Collectors, Co.",Melbourne,Australia,APAC,Ferguson,Peter,Small
+10236,36,88,"3,154",Shipped,4,2004,Motorcycles,S24_2000,Motor Mint Distributors Inc.,Philadelphia,USA,NA,Hernandez,Rosa,Medium
+10250,32,88,"2,803",Shipped,5,2004,Motorcycles,S24_2000,The Sharp Gifts Warehouse,San Jose,USA,NA,Frick,Sue,Small
+10263,37,62,"2,311",Shipped,6,2004,Motorcycles,S24_2000,Gift Depot Inc.,Bridgewater,USA,NA,King,Julie,Small
+10275,30,80,"2,399",Shipped,7,2004,Motorcycles,S24_2000,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Small
+10285,39,70,"2,733",Shipped,8,2004,Motorcycles,S24_2000,Marta's Replicas Co.,Cambridge,USA,NA,Hernandez,Marta,Small
+10297,32,66,"2,096",Shipped,9,2004,Motorcycles,S24_2000,"Clover Collections, Co.",Dublin,Ireland,EMEA,Cassidy,Dean,Small
+10308,47,63,"2,971",Shipped,10,2004,Motorcycles,S24_2000,Mini Classics,White Plains,USA,NA,Frick,Steve,Small
+10318,26,87,"2,258",Shipped,11,2004,Motorcycles,S24_2000,Diecast Classics Inc.,Allentown,USA,NA,Yu,Kyung,Small
+10329,37,94,"3,494",Shipped,11,2004,Motorcycles,S24_2000,Land of Toys Inc.,NYC,USA,NA,Yu,Kwai,Medium
+10340,55,80,"4,399",Shipped,11,2004,Motorcycles,S24_2000,Enaco Distributors,Barcelona,Spain,EMEA,Saavedra,Eduardo,Medium
+10363,21,100,"3,596",Shipped,1,2005,Motorcycles,S24_2000,Suominen Souveniers,Espoo,Finland,EMEA,Suominen,Kalle,Medium
+10375,23,100,"2,443",Shipped,2,2005,Motorcycles,S24_2000,La Rochelle Gifts,Nantes,France,EMEA,Labrune,Janine,Small
+10389,49,81,"3,989",Shipped,3,2005,Motorcycles,S24_2000,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10402,59,88,"5,168",Shipped,4,2005,Motorcycles,S24_2000,Auto Canal Petit,Paris,France,EMEA,Perrier,Dominique,Medium
+10416,32,88,"2,803",Shipped,5,2005,Motorcycles,S24_2000,L'ordine Souveniers,Reggio Emilia,Italy,EMEA,Moroni,Maurizio,Small
+10105,43,100,"6,341",Shipped,2,2003,Ships,S24_2011,Danish Wholesale Imports,Kobenhavn,Denmark,EMEA,Petersen,Jytte,Medium
+10117,41,100,"5,190",Shipped,4,2003,Ships,S24_2011,"Dragon Souveniers, Ltd.",Singapore,Singapore,Japan,Natividad,Eric,Medium
+10129,45,100,"6,028",Shipped,6,2003,Ships,S24_2011,"Stylish Desk Decors, Co.",London,UK,EMEA,Brown,Ann,Medium
+10142,33,100,"3,366",Shipped,8,2003,Ships,S24_2011,Mini Gifts Distributors Ltd.,San Rafael,USA,NA,Nelson,Valarie,Medium
+10153,40,100,"5,456",Shipped,9,2003,Ships,S24_2011,Euro Shopping Channel,Madrid,Spain,EMEA,Freyre,Diego,Medium
+10167,33,100,"3,812",Cancelled,10,2003,Ships,S24_2011,Scandinavian Gift Ideas,Boras,Sweden,EMEA,Larsson,Maria,Medium
+10177,50,100,"6,083",Shipped,11,2003,Ships,S24_2011,CAF Imports,Madrid,Spain,EMEA,Fernandez,Jesus,Medium
+10185,30,100,"3,171",Shipped,11,2003,Ships,S24_2011,Mini Creations Ltd.,New Bedford,USA,NA,Tam,Wing C,Medium
+10197,41,100,"4,535",Shipped,11,2003,Ships,S24_2011,Enaco Distributors,Barcelona,Spain,EMEA,Saavedra,Eduardo,Medium
