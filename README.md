@@ -22,7 +22,7 @@ The dashboards were designed to help stakeholders monitor performance, identify 
 
 ## 📌 Excel Dashboard
 
-![Excel Dashboard](Images/Excel_Dashboard_Screenshot.png)
+![Excel Dashboard](Images/Excel Dashboard Screenshot.png)
 
 ---
 
