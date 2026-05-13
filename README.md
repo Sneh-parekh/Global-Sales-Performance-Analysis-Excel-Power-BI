@@ -22,7 +22,7 @@ The dashboards were designed to help stakeholders monitor performance, identify 
 
 ## 📌 Excel Dashboard
 
-![Excel Dashboard](Images/https://github.com/Sneh-parekh/Global-Sales-Performance-Analysis-Excel-Power-BI/blob/main/Images/Excel%20Dashboard%20Screenshot.png)
+![Excel Dashboard](Images/Excel_Dashboard_Screenshot.png)
 
 ---
 
