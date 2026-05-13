@@ -22,19 +22,19 @@ The dashboards were designed to help stakeholders monitor performance, identify 
 
 ## 📌 Excel Dashboard
 
-![Excel Dashboard](Images/Excel Dashboard Screenshot.png)
+![Excel Dashboard](Images/Excel_Dashboard_Screenshot.png)
 
 ---
 
 ## 📌 Power BI – Business Overview
 
-![Business Overview](Images/powerbi_business_overview.png)
+![Business Overview](Images/PowerBI_Page1.png)
 
 ---
 
 ## 📌 Power BI – Geographical Analysis
 
-![Geographical Analysis](Images/powerbi_geographical_analysis.png)
+![Geographical Analysis](Images/PowerBI_Page2.png)
 
 ---
 
@@ -83,6 +83,7 @@ The dataset contains global sales transaction records including:
 # 📊 Excel Dashboard Analysis
 
 The Excel dashboard was created using Pivot Tables, Pivot Charts, slicers, and formatting techniques to perform sales analysis and KPI reporting.
+![Excel Dashboard](Images/Excel_Dashboard_Screenshot.png)
 
 ## 📌 Dashboard Features
 
@@ -95,7 +96,7 @@ The Excel dashboard was created using Pivot Tables, Pivot Charts, slicers, and f
 
 ## 📸 Pivot Table Preview
 
-![Pivot Tables](Images/pivot_tables.png)
+![Pivot Tables](Images/Excel_Pivot_Table_Screenshot.png)
 
 ---
 
@@ -108,6 +109,7 @@ The Power BI report is divided into two analytical pages.
 ## 1️⃣ Business Overview
 
 This dashboard page provides a high-level summary of overall business performance.
+![Business Overview](Images/PowerBI_Page1.png)
 
 ### Included Visuals
 
@@ -136,6 +138,7 @@ This dashboard page provides a high-level summary of overall business performanc
 ## 2️⃣ Geographical Analysis
 
 This dashboard page focuses on country-level and regional sales performance.
+![Geographical Analysis](Images/PowerBI_Page2.png)
 
 ### Included Visuals
 
